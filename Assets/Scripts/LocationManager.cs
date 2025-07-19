@@ -1,6 +1,6 @@
 using UnityEngine;
 using System.Collections.Generic;
-using AceConsole;
+using Ace;
 
 [System.Serializable]
 public class LocationManager : MonoBehaviour
@@ -21,7 +21,7 @@ public class LocationManager : MonoBehaviour
         IDToSpriteMap = new Dictionary<string, Sprite>();
         foreach (Location entry in locationList)
         {
-            IDToSpriteMap[entry.ID] = entry.Image;
+            //IDToSpriteMap[entry.ID] = entry.Image;
         }
     }
 
