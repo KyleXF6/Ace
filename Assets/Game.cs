@@ -156,7 +156,7 @@ namespace Ace
             }
         }
 
-        private void AddJournalEntry(GameJournalEvent evt, object source)
+        public void AddJournalEntry(GameJournalEvent evt, object source)
         {
             Journal.Add(new GameJournalEntry()
             {

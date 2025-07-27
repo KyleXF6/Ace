@@ -78,6 +78,7 @@
     <Compile Include="Assets\Location.cs" />
     <Compile Include="Assets\Actions\GoNext.cs" />
     <Compile Include="Assets\Scripts\ActionManager.cs" />
+    <Compile Include="Assets\Scripts\PresentPanel.cs" />
     <Compile Include="Assets\Actions\IAction.cs" />
     <Compile Include="Assets\StoryParts\DialogueLine.cs" />
     <Compile Include="Assets\StoryParts\ModifyHealth.cs" />
@@ -89,6 +90,7 @@
     <Compile Include="Assets\StoryParts\ModifyLandmark.cs" />
     <Compile Include="Assets\Actions\QuitGame.cs" />
     <Compile Include="Assets\StoryParts\Challenge.cs" />
+    <Compile Include="Assets\Scripts\ExaminePanel.cs" />
     <Compile Include="Assets\GameProperties.cs" />
     <Compile Include="Assets\ProgramHelpers.cs" />
     <Compile Include="Assets\Scripts\LocationManager.cs" />

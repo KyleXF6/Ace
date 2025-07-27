@@ -10,7 +10,7 @@ namespace Ace
     {
         public const int MaxSlotNumber = 9;
 
-        private class GameFile
+        public class GameFile
         {
             public DateTime Time { get; set; }
             public string LocationName { get; set; }
@@ -24,7 +24,7 @@ namespace Ace
             return Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), $"Ace\\Save{slot}.json");
         }
 
-        private static GameFile LoadGameFile(int slot)
+        public static GameFile LoadGameFile(int slot)
         {
             var fileName = GetSaveFileName(slot);
             var json = File.ReadAllText(fileName);
@@ -70,7 +70,7 @@ namespace Ace
                     {
                         case GameJournalEvent.AdvanceStoryPart:
                             var journalPart = (IStoryPart)eJournalEntity;
-                            //journalPart?.Advance(game);
+                            journalPart?.Activate(game, null);
                             break;
 
                         case GameJournalEvent.ClearLocationAutoStoryPart:

@@ -10,6 +10,7 @@ public class MovePanel : MonoBehaviour
     private List<Button> moveButtonClones = new List<Button>();
     public delegate void MoveOptionDelegate(int option);
     public event MoveOptionDelegate Moved;
+    public bool isActive;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -58,6 +59,7 @@ public class MovePanel : MonoBehaviour
             TMP_Text buttonText = moveButtonCur.GetComponentInChildren<TMP_Text>(true);
             buttonText.text = locationName;
             i++;
+            isActive = true;
         }
 
     }
@@ -72,6 +74,7 @@ public class MovePanel : MonoBehaviour
         moveButtons.Clear();
         moveButtons.Add(moveButton0);
         gameObject.SetActive(false);
-
+        isActive = false;
     }
+
 }

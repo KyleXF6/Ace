@@ -21,6 +21,7 @@ public class ActionPanel : MonoBehaviour
     public Button talkButton;
     public delegate void ActionDelegate(Action action);
     public event ActionDelegate ActionTaken;
+    public bool isActive;
     public bool IsVisible
     {
         get

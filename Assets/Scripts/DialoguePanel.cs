@@ -9,7 +9,7 @@ public class DialoguePanel : MonoBehaviour
     public SpriteRenderer dialogueBox;
     public TMP_Text dialogueText;
     public TMP_Text nameText;
-    
+    public bool isActive = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -34,10 +34,12 @@ public class DialoguePanel : MonoBehaviour
             nameBox.gameObject.SetActive(true);
         }
         gameObject.SetActive(true);
+        isActive = true;
     }
 
     public void Hide()
     {
         gameObject.SetActive(false);
+        isActive = false;
     }
 }
