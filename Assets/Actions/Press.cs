@@ -14,6 +14,7 @@ namespace Ace.Actions
         public string Name => "Press";
         public bool IsVisible => true;
 
+        
         public bool CanExecute(Game game)
         {
             if (!(game.CurrentPart is StoryParts.TestimonyLine line))

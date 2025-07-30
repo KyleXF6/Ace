@@ -70,7 +70,7 @@ public class ActionManager : MonoBehaviour
             case Action.Examine:
                 if (!examinePanel.isActive)
                 {
-                    examinePanel.Show(items);
+                    examinePanel.Show(landmarks);
                 }
                 else
                 {

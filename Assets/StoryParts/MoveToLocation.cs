@@ -20,7 +20,7 @@ namespace Ace.StoryParts
 
         public bool CanAdvance(Game game, GameManager gameManager)
         {
-            return false;
+            return true;
         }
     }
 }

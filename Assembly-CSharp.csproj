@@ -86,6 +86,8 @@
     <Compile Include="Assets\StoryParts\AddTestimony.cs" />
     <Compile Include="Assets\Actions\Examine.cs" />
     <Compile Include="Assets\StoryParts\ModifyItem.cs" />
+    <Compile Include="Assets\Scripts\ChallengeManager.cs" />
+    <Compile Include="Assets\Scripts\ChallengePanel.cs" />
     <Compile Include="Assets\StoryParts\OBJECTION.cs" />
     <Compile Include="Assets\StoryParts\ModifyLandmark.cs" />
     <Compile Include="Assets\Actions\QuitGame.cs" />
@@ -98,6 +100,7 @@
     <Compile Include="Assets\Landmark.cs" />
     <Compile Include="Assets\StoryParts\HOLD_IT.cs" />
     <Compile Include="Assets\Scripts\ChoiceManager.cs" />
+    <Compile Include="Assets\Scripts\TestimonyPanel.cs" />
     <Compile Include="Assets\StoryParts\IStoryPart.cs" />
     <Compile Include="Assets\Topic.cs" />
     <Compile Include="Assets\Scripts\MovePanel.cs" />

@@ -16,8 +16,10 @@ public class GameManager : MonoBehaviour
     private StoryFile storyFile;
     public ActionManager actionManager;
     public DialogueManager dialogueManager;
+    public TestimonyPanel testimonyPanel;
     public LocationManager locationManager;
     public ChoiceManager choiceManager;
+    public ChallengePanel challengePanel;
     public TMP_Text locationText;
     public TMP_Text courtRecord;
     public delegate void ClickedHandler();
@@ -32,7 +34,7 @@ public class GameManager : MonoBehaviour
         actionManager.Moved += HandleMoved;
         actionManager.Talked += HandleTalked;
         actionManager.Presented += HandlePresented;
-        actionManager.Presented += HandleExamined;
+        actionManager.Examined += HandleExamined;
         locationText.text = game.CurrentLocation.Name;
         savePanel.GameLoaded += HandleGameLoaded;
     }
@@ -73,7 +75,6 @@ public class GameManager : MonoBehaviour
     {
         var locations = GetNearLocations();
         game.CurrentLocation = locations[option];
-        locationText.text = game.CurrentLocation.Name;
         
     }
     private void HandleTalked(int option)
@@ -113,7 +114,7 @@ public class GameManager : MonoBehaviour
         return topics.ToArray();
     }
 
-    private Item[] GetCurrentItems()
+    public Item[] GetCurrentItems()
     {
         var items = game.Items.Where(i => i.IsVisible);
         if (items == null)
@@ -125,7 +126,7 @@ public class GameManager : MonoBehaviour
 
     private Landmark[] GetCurrentLandmarks()
     {
-        var landmarks = game.Landmarks.Where(l => l.IsVisible);
+        var landmarks = game.CurrentLocation.Landmarks.Where(l => l.IsVisible);
         if (landmarks == null)
         {
             return new Landmark[] { };
@@ -136,6 +137,7 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        locationText.text = game.CurrentLocation.Name;
         if (Input.GetKeyDown(KeyCode.S))
         {
             savePanel.Show(game);
