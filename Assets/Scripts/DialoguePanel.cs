@@ -18,7 +18,33 @@ public class DialoguePanel : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        UpdateTextMesh(); 
+    }
+    public int RevealCount { get; set; }
+
+    private void UpdateTextMesh()
+    {
+        dialogueText.ForceMeshUpdate();
+
+        for (int i = 0; i < dialogueText.textInfo.characterCount; i++)
+        {
+            var charInfo = dialogueText.textInfo.characterInfo[i];
+            if (!charInfo.isVisible)
+            {
+                continue;
+            }
+
+            int index = charInfo.vertexIndex;
+
+            for (int j = 0; j < 4; ++j)
+            {
+                byte alpha = i < RevealCount ? (byte)0xff : (byte)0;
+
+                dialogueText.textInfo.meshInfo[charInfo.materialReferenceIndex].colors32[index + j].a = alpha;
+            }
+        }
+
+        dialogueText.UpdateVertexData(TMP_VertexDataUpdateFlags.Colors32);
     }
     public void Show(string dialogueText, string actorText)
     { 
@@ -35,6 +61,8 @@ public class DialoguePanel : MonoBehaviour
         }
         gameObject.SetActive(true);
         isActive = true;
+        RevealCount = 0;
+        UpdateTextMesh();
     }
 
     public void Hide()
@@ -42,4 +70,6 @@ public class DialoguePanel : MonoBehaviour
         gameObject.SetActive(false);
         isActive = false;
     }
+
+    
 }

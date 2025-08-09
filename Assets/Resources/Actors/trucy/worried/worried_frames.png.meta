@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: d7e5638b08d9789409e009536dd491d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7108128830591185003
+    second: Trucy_Worried_Talking_HD_0
+  - first:
+      213: -2255816580170107591
+    second: Trucy_Worried_Talking_HD_1
+  - first:
+      213: 5636568936417435577
+    second: Trucy_Worried_Talking_HD_2
+  - first:
+      213: -7506103395045021475
+    second: Trucy_Worried_Talking_HD_3
+  - first:
+      213: 1436457159347457335
+    second: Trucy_Worried_Talking_HD_4
+  - first:
+      213: 4630791489501010139
+    second: Trucy_Worried_Talking_HD_5
+  - first:
+      213: 8456716636201574146
+    second: Trucy_Worried_Talking_HD_6
+  - first:
+      213: -2313106622135707129
+    second: Trucy_Worried_Talking_HD_7
+  - first:
+      213: -7196995704960214586
+    second: Trucy_Worried_Talking_HD_8
+  - first:
+      213: -267316783354762602
+    second: Trucy_Worried_Talking_HD_9
+  - first:
+      213: -4512769963972505060
+    second: Trucy_Worried_Talking_HD_10
+  - first:
+      213: 3546036602886876107
+    second: Trucy_Worried_Talking_HD_11
+  - first:
+      213: -3902893852921350210
+    second: Trucy_Worried_Talking_HD_12
+  - first:
+      213: 2388553370844881549
+    second: Trucy_Worried_Talking_HD_13
+  - first:
+      213: 3139997808839733613
+    second: Trucy_Worried_Talking_HD_14
+  - first:
+      213: -4926494914507895151
+    second: Trucy_Worried_Talking_HD_15
+  - first:
+      213: 3656802263812577122
+    second: Trucy_Worried_Talking_HD_16
+  - first:
+      213: 406123767873768339
+    second: Trucy_Worried_Talking_HD_17
+  - first:
+      213: 375928683778973808
+    second: Trucy_Worried_Talking_HD_18
+  - first:
+      213: 3848852462751400489
+    second: Trucy_Worried_Talking_HD_19
+  - first:
+      213: -2059648385012022750
+    second: Trucy_Worried_Talking_HD_20
+  - first:
+      213: -3510317962605579747
+    second: Trucy_Worried_Talking_HD_21
+  - first:
+      213: -1520752177205331896
+    second: Trucy_Worried_Talking_HD_22
+  - first:
+      213: 7192127388176512580
+    second: Trucy_Worried_Talking_HD_23
+  - first:
+      213: 2390450093131732631
+    second: Trucy_Worried_Talking_HD_24
+  - first:
+      213: 5685001112244779190
+    second: Trucy_Worried_Talking_HD_25
+  - first:
+      213: -8501960658828934097
+    second: Trucy_Worried_Talking_HD_26
+  - first:
+      213: -2006651001749853586
+    second: Trucy_Worried_Talking_HD_27
+  - first:
+      213: -3239696441513253099
+    second: Trucy_Worried_Talking_HD_28
+  - first:
+      213: -1386757184646137949
+    second: Trucy_Worried_Talking_HD_29
+  - first:
+      213: -8754259254504158232
+    second: Trucy_Worried_Talking_HD_30
+  - first:
+      213: -1296073786319695492
+    second: Trucy_Worried_Talking_HD_31
+  - first:
+      213: 8179191300656123628
+    second: Trucy_Worried_Talking_HD_32
+  - first:
+      213: -369093866128438668
+    second: Trucy_Worried_Talking_HD_33
+  - first:
+      213: -1386773923497371906
+    second: Trucy_Worried_Talking_HD_34
+  - first:
+      213: 2149382389894924060
+    second: Trucy_Worried_Talking_HD_35
+  - first:
+      213: 1304971680517423218
+    second: Trucy_Worried_Talking_HD_36
+  - first:
+      213: -7098052011954074424
+    second: Trucy_Worried_Talking_HD_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_0
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 5249
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f46e23d7ada5d90800000000000000
+      internalID: -7108128830591185003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_1
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 5249
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935368ca5cab1b0e0800000000000000
+      internalID: -2255816580170107591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_2
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 5249
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf9927759d193e40800000000000000
+      internalID: 5636568936417435577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_3
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 5249
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8ecf23bb6f4d790800000000000000
+      internalID: -7506103395045021475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_4
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 5249
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dc8fdfc225fe310800000000000000
+      internalID: 1436457159347457335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 4499
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd81c902350e34040800000000000000
+      internalID: 4630791489501010139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_6
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 4499
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f5eea99fa4c5570800000000000000
+      internalID: 8456716636201574146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_7
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 4499
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a5ff358c136efd0800000000000000
+      internalID: -2313106622135707129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_8
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 4499
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c995d3a9822f1c90800000000000000
+      internalID: -7196995704960214586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_9
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 4499
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69aa3a54dcc4a4cf0800000000000000
+      internalID: -267316783354762602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3749
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12dd50a0ab6f51c0800000000000000
+      internalID: -4512769963972505060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_11
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 3749
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbea9ba08d063130800000000000000
+      internalID: 3546036602886876107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_12
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 3749
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7319c18b226d9c0800000000000000
+      internalID: -3902893852921350210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_13
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 3749
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82654cb2a8d52120800000000000000
+      internalID: 2388553370844881549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_14
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 3749
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61b567ee53839b20800000000000000
+      internalID: 3139997808839733613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2999
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e0df81af291abb0800000000000000
+      internalID: -4926494914507895151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_16
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 2999
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267946cc8429fb230800000000000000
+      internalID: 3656802263812577122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_17
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 2999
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b85f64a67d2a500800000000000000
+      internalID: 406123767873768339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_18
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 2999
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070a6896521973500800000000000000
+      internalID: 375928683778973808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_19
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 2999
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9224f2b3ceed96530800000000000000
+      internalID: 3848852462751400489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2249
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222c621d4b8aa63e0800000000000000
+      internalID: -2059648385012022750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_21
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 2249
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12b8365968d84fc0800000000000000
+      internalID: -3510317962605579747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_22
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 2249
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848364eb3f335eae0800000000000000
+      internalID: -1520752177205331896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_23
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 2249
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4467e9701c19fc360800000000000000
+      internalID: 7192127388176512580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_24
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 2249
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7969a6ec1b59c2120800000000000000
+      internalID: 2390450093131732631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_25
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1499
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8fc03246e25ee40800000000000000
+      internalID: 5685001112244779190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_26
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1499
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24c72c73d7f20a80800000000000000
+      internalID: -8501960658828934097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_27
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 1499
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aa48cab81f624e0800000000000000
+      internalID: -2006651001749853586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_28
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 1499
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517618740494a03d0800000000000000
+      internalID: -3239696441513253099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_29
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 1499
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7327b10bf31cce0800000000000000
+      internalID: -1386757184646137949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 749
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb8a9f079f928680800000000000000
+      internalID: -8754259254504158232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_31
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 749
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7118bb12cb630ee0800000000000000
+      internalID: -1296073786319695492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_32
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 749
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceec2991723528170800000000000000
+      internalID: 8179191300656123628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_33
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 749
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a83a49517b0eaf0800000000000000
+      internalID: -369093866128438668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_34
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 749
+        width: 367
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef61a2ac67031cce0800000000000000
+      internalID: -1386773923497371906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_35
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 367
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17ca2c45e324dd10800000000000000
+      internalID: 2149382389894924060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_36
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 0
+        width: 367
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2708f2354d03c1210800000000000000
+      internalID: 1304971680517423218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Worried_Talking_HD_37
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 0
+        width: 367
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc0b3e5d47ae7d90800000000000000
+      internalID: -7098052011954074424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trucy_Worried_Talking_HD_0: -7108128830591185003
+      Trucy_Worried_Talking_HD_1: -2255816580170107591
+      Trucy_Worried_Talking_HD_10: -4512769963972505060
+      Trucy_Worried_Talking_HD_11: 3546036602886876107
+      Trucy_Worried_Talking_HD_12: -3902893852921350210
+      Trucy_Worried_Talking_HD_13: 2388553370844881549
+      Trucy_Worried_Talking_HD_14: 3139997808839733613
+      Trucy_Worried_Talking_HD_15: -4926494914507895151
+      Trucy_Worried_Talking_HD_16: 3656802263812577122
+      Trucy_Worried_Talking_HD_17: 406123767873768339
+      Trucy_Worried_Talking_HD_18: 375928683778973808
+      Trucy_Worried_Talking_HD_19: 3848852462751400489
+      Trucy_Worried_Talking_HD_2: 5636568936417435577
+      Trucy_Worried_Talking_HD_20: -2059648385012022750
+      Trucy_Worried_Talking_HD_21: -3510317962605579747
+      Trucy_Worried_Talking_HD_22: -1520752177205331896
+      Trucy_Worried_Talking_HD_23: 7192127388176512580
+      Trucy_Worried_Talking_HD_24: 2390450093131732631
+      Trucy_Worried_Talking_HD_25: 5685001112244779190
+      Trucy_Worried_Talking_HD_26: -8501960658828934097
+      Trucy_Worried_Talking_HD_27: -2006651001749853586
+      Trucy_Worried_Talking_HD_28: -3239696441513253099
+      Trucy_Worried_Talking_HD_29: -1386757184646137949
+      Trucy_Worried_Talking_HD_3: -7506103395045021475
+      Trucy_Worried_Talking_HD_30: -8754259254504158232
+      Trucy_Worried_Talking_HD_31: -1296073786319695492
+      Trucy_Worried_Talking_HD_32: 8179191300656123628
+      Trucy_Worried_Talking_HD_33: -369093866128438668
+      Trucy_Worried_Talking_HD_34: -1386773923497371906
+      Trucy_Worried_Talking_HD_35: 2149382389894924060
+      Trucy_Worried_Talking_HD_36: 1304971680517423218
+      Trucy_Worried_Talking_HD_37: -7098052011954074424
+      Trucy_Worried_Talking_HD_4: 1436457159347457335
+      Trucy_Worried_Talking_HD_5: 4630791489501010139
+      Trucy_Worried_Talking_HD_6: 8456716636201574146
+      Trucy_Worried_Talking_HD_7: -2313106622135707129
+      Trucy_Worried_Talking_HD_8: -7196995704960214586
+      Trucy_Worried_Talking_HD_9: -267316783354762602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

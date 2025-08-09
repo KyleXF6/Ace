@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 2e7dbce09dec47e4bbda81740c30e2b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6192048457114515738
+    second: surprised_frames_0
+  - first:
+      213: -2560670050774291861
+    second: surprised_frames_1
+  - first:
+      213: 5473993831242284338
+    second: surprised_frames_2
+  - first:
+      213: 427198762360016303
+    second: surprised_frames_3
+  - first:
+      213: -4700696559036479346
+    second: surprised_frames_4
+  - first:
+      213: -2089899917393618395
+    second: surprised_frames_5
+  - first:
+      213: 8880362857619167086
+    second: surprised_frames_6
+  - first:
+      213: 7292581229268843475
+    second: surprised_frames_7
+  - first:
+      213: -519744128321944179
+    second: surprised_frames_8
+  - first:
+      213: -7332333736346882524
+    second: surprised_frames_9
+  - first:
+      213: 6768359971849017504
+    second: surprised_frames_10
+  - first:
+      213: 2418201065228380665
+    second: surprised_frames_11
+  - first:
+      213: -1613850531747951280
+    second: surprised_frames_12
+  - first:
+      213: -8857888776512375654
+    second: surprised_frames_13
+  - first:
+      213: -3714119661777726451
+    second: surprised_frames_14
+  - first:
+      213: -1291662311348009647
+    second: surprised_frames_15
+  - first:
+      213: -3286059918140332173
+    second: surprised_frames_16
+  - first:
+      213: -5818046722469238552
+    second: surprised_frames_17
+  - first:
+      213: 8251051699956816497
+    second: surprised_frames_18
+  - first:
+      213: -1512950058857232591
+    second: surprised_frames_19
+  - first:
+      213: -2055150100492612313
+    second: surprised_frames_20
+  - first:
+      213: -3006959825905678787
+    second: surprised_frames_21
+  - first:
+      213: -3971287685676968353
+    second: surprised_frames_22
+  - first:
+      213: -1007356908241188190
+    second: surprised_frames_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: surprised_frames_0
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e60fa13cbc611aa0800000000000000
+      internalID: -6192048457114515738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_1
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6aed94e72ca67cd0800000000000000
+      internalID: -2560670050774291861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_2
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d30e5136887fb40800000000000000
+      internalID: 5473993831242284338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad84fec207bde500800000000000000
+      internalID: 427198762360016303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_4
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88cab98265c3ceb0800000000000000
+      internalID: -4700696559036479346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_5
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a92af091f2ff2e0800000000000000
+      internalID: -2089899917393618395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_6
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6796f408f26d3b70800000000000000
+      internalID: 8880362857619167086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_7
+      rect:
+        serializedVersion: 2
+        x: 7080
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db30428df3743560800000000000000
+      internalID: 7292581229268843475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_8
+      rect:
+        serializedVersion: 2
+        x: 8040
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d858641187f79c8f0800000000000000
+      internalID: -519744128321944179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_9
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e6e6ea0515e3a90800000000000000
+      internalID: -7332333736346882524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_10
+      rect:
+        serializedVersion: 2
+        x: 9960
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8980ab88b0eed50800000000000000
+      internalID: 6768359971849017504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_11
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9a8608e0d2f8120800000000000000
+      internalID: 2418201065228380665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_12
+      rect:
+        serializedVersion: 2
+        x: 11880
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d869eed737a99e0800000000000000
+      internalID: -1613850531747951280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_13
+      rect:
+        serializedVersion: 2
+        x: 12840
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a947f00c615721580800000000000000
+      internalID: -8857888776512375654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_14
+      rect:
+        serializedVersion: 2
+        x: 13800
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04d17a88dbc47cc0800000000000000
+      internalID: -3714119661777726451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_15
+      rect:
+        serializedVersion: 2
+        x: 14760
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155875aa8f7131ee0800000000000000
+      internalID: -1291662311348009647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_16
+      rect:
+        serializedVersion: 2
+        x: 15720
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377a89c2ae19562d0800000000000000
+      internalID: -3286059918140332173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_17
+      rect:
+        serializedVersion: 2
+        x: 16680
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8689cc455224fa0800000000000000
+      internalID: -5818046722469238552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_18
+      rect:
+        serializedVersion: 2
+        x: 17640
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a1f4f1ecf918270800000000000000
+      internalID: 8251051699956816497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_19
+      rect:
+        serializedVersion: 2
+        x: 18600
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13788eaffebe00be0800000000000000
+      internalID: -1512950058857232591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_20
+      rect:
+        serializedVersion: 2
+        x: 19560
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d870c4fd3aa73e0800000000000000
+      internalID: -2055150100492612313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_21
+      rect:
+        serializedVersion: 2
+        x: 20520
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36850b48f12546d0800000000000000
+      internalID: -3006959825905678787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_22
+      rect:
+        serializedVersion: 2
+        x: 21480
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56575204e623e8c0800000000000000
+      internalID: -3971287685676968353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surprised_frames_23
+      rect:
+        serializedVersion: 2
+        x: 22440
+        y: 0
+        width: 244
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa8f3aaa362502f0800000000000000
+      internalID: -1007356908241188190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

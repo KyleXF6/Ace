@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 107ddf422bce1bb428ef231cd05cfc2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8045460278563625163
+    second: Trucy_Thinking_2_HD_0
+  - first:
+      213: 8845412164102442267
+    second: Trucy_Thinking_2_HD_1
+  - first:
+      213: -3124395426850410677
+    second: Trucy_Thinking_2_HD_2
+  - first:
+      213: 6208465983237357846
+    second: Trucy_Thinking_2_HD_3
+  - first:
+      213: 132106973065574723
+    second: Trucy_Thinking_2_HD_4
+  - first:
+      213: 8060446082925352659
+    second: Trucy_Thinking_2_HD_5
+  - first:
+      213: 5224675262792239455
+    second: Trucy_Thinking_2_HD_6
+  - first:
+      213: 3020600410692909866
+    second: Trucy_Thinking_2_HD_7
+  - first:
+      213: -3706542379618460208
+    second: Trucy_Thinking_2_HD_8
+  - first:
+      213: -5040351789218799331
+    second: Trucy_Thinking_2_HD_9
+  - first:
+      213: 6539501169027309865
+    second: Trucy_Thinking_2_HD_10
+  - first:
+      213: 7587754520640284233
+    second: Trucy_Thinking_2_HD_11
+  - first:
+      213: -8896096512032999955
+    second: Trucy_Thinking_2_HD_12
+  - first:
+      213: -358503391179067814
+    second: Trucy_Thinking_2_HD_13
+  - first:
+      213: 6658775697012694489
+    second: Trucy_Thinking_2_HD_14
+  - first:
+      213: 4708945515373553710
+    second: Trucy_Thinking_2_HD_15
+  - first:
+      213: 4599326099437005667
+    second: Trucy_Thinking_2_HD_16
+  - first:
+      213: 4033098171879344764
+    second: Trucy_Thinking_2_HD_17
+  - first:
+      213: 239089497950341557
+    second: Trucy_Thinking_2_HD_18
+  - first:
+      213: 5836981484583735665
+    second: Trucy_Thinking_2_HD_19
+  - first:
+      213: 6486087385470932562
+    second: Trucy_Thinking_2_HD_20
+  - first:
+      213: 7553240668195700174
+    second: Trucy_Thinking_2_HD_21
+  - first:
+      213: 6817648805400337184
+    second: Trucy_Thinking_2_HD_22
+  - first:
+      213: -6365232178990635776
+    second: Trucy_Thinking_2_HD_23
+  - first:
+      213: 4244180204169937764
+    second: Trucy_Thinking_2_HD_24
+  - first:
+      213: 6004584762222796893
+    second: Trucy_Thinking_2_HD_25
+  - first:
+      213: -3540665470622771601
+    second: Trucy_Thinking_2_HD_26
+  - first:
+      213: -5584354045767504907
+    second: Trucy_Thinking_2_HD_27
+  - first:
+      213: 4018511973502024182
+    second: Trucy_Thinking_2_HD_28
+  - first:
+      213: 8225296535732333745
+    second: Trucy_Thinking_2_HD_29
+  - first:
+      213: -3903682997783780527
+    second: Trucy_Thinking_2_HD_30
+  - first:
+      213: 4420836945497898527
+    second: Trucy_Thinking_2_HD_31
+  - first:
+      213: 1488882667061123878
+    second: Trucy_Thinking_2_HD_32
+  - first:
+      213: 5044449100637067899
+    second: Trucy_Thinking_2_HD_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_0
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4607
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8dc462f7737af60800000000000000
+      internalID: 8045460278563625163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_1
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 4607
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dce3d8f7731ca70800000000000000
+      internalID: 8845412164102442267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_2
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 4607
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fe9bcb9eae3a4d0800000000000000
+      internalID: -3124395426850410677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_3
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 4607
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61185fafae6e82650800000000000000
+      internalID: 6208465983237357846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_4
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 4607
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349fce1979655d100800000000000000
+      internalID: 132106973065574723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3839
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d654ff91057cdf60800000000000000
+      internalID: 8060446082925352659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_6
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 3839
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5980815876c18840800000000000000
+      internalID: 5224675262792239455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_7
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 3839
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bffb7d1145be920800000000000000
+      internalID: 3020600410692909866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_8
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 3839
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd19e50857bf8cc0800000000000000
+      internalID: -3706542379618460208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_9
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 3839
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11eb9ca0c21d0ab0800000000000000
+      internalID: -5040351789218799331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3071
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921ef1c5aa9f0ca50800000000000000
+      internalID: 6539501169027309865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_11
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 3071
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946e0ade88e1d4960800000000000000
+      internalID: 7587754520640284233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_12
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 3071
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de57ea81b57ba8480800000000000000
+      internalID: -8896096512032999955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_13
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 3071
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eaffda017560bf0800000000000000
+      internalID: -358503391179067814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_14
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 3071
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd127b7739b86c50800000000000000
+      internalID: 6658775697012694489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2303
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2862864ff8895140800000000000000
+      internalID: 4708945515373553710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_16
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 2303
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b202b18b614df30800000000000000
+      internalID: 4599326099437005667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_17
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 2303
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a45274b6178f730800000000000000
+      internalID: 4033098171879344764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_18
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 2303
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b94bd2b1aa615300800000000000000
+      internalID: 239089497950341557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_19
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 2303
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171552d0cbf110150800000000000000
+      internalID: 5836981484583735665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1535
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2561321cc16330a50800000000000000
+      internalID: 6486087385470932562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_21
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1535
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdb6d27e5082d860800000000000000
+      internalID: 7553240668195700174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_22
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1535
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bd04197772d9e50800000000000000
+      internalID: 6817648805400337184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_23
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1535
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005a062ce072aa7a0800000000000000
+      internalID: -6365232178990635776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_24
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 1535
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4634b48b86b56ea30800000000000000
+      internalID: 4244180204169937764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 767
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5063001702945350800000000000000
+      internalID: 6004584762222796893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_26
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 767
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66d90383870ddec0800000000000000
+      internalID: -3540665470622771601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_27
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 767
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb230225936082b0800000000000000
+      internalID: -5584354045767504907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_28
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 767
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9fd32595f94c730800000000000000
+      internalID: 4018511973502024182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_29
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 767
+        width: 409
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca398ae9f162270800000000000000
+      internalID: 8225296535732333745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 409
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153ad510ff453d9c0800000000000000
+      internalID: -3903682997783780527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_31
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 0
+        width: 409
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e335287c7f95d30800000000000000
+      internalID: 4420836945497898527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_32
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 0
+        width: 409
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b1a62b5e299a410800000000000000
+      internalID: 1488882667061123878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Thinking_2_HD_33
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 0
+        width: 409
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ad20bfabb710640800000000000000
+      internalID: 5044449100637067899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trucy_Thinking_2_HD_0: 8045460278563625163
+      Trucy_Thinking_2_HD_1: 8845412164102442267
+      Trucy_Thinking_2_HD_10: 6539501169027309865
+      Trucy_Thinking_2_HD_11: 7587754520640284233
+      Trucy_Thinking_2_HD_12: -8896096512032999955
+      Trucy_Thinking_2_HD_13: -358503391179067814
+      Trucy_Thinking_2_HD_14: 6658775697012694489
+      Trucy_Thinking_2_HD_15: 4708945515373553710
+      Trucy_Thinking_2_HD_16: 4599326099437005667
+      Trucy_Thinking_2_HD_17: 4033098171879344764
+      Trucy_Thinking_2_HD_18: 239089497950341557
+      Trucy_Thinking_2_HD_19: 5836981484583735665
+      Trucy_Thinking_2_HD_2: -3124395426850410677
+      Trucy_Thinking_2_HD_20: 6486087385470932562
+      Trucy_Thinking_2_HD_21: 7553240668195700174
+      Trucy_Thinking_2_HD_22: 6817648805400337184
+      Trucy_Thinking_2_HD_23: -6365232178990635776
+      Trucy_Thinking_2_HD_24: 4244180204169937764
+      Trucy_Thinking_2_HD_25: 6004584762222796893
+      Trucy_Thinking_2_HD_26: -3540665470622771601
+      Trucy_Thinking_2_HD_27: -5584354045767504907
+      Trucy_Thinking_2_HD_28: 4018511973502024182
+      Trucy_Thinking_2_HD_29: 8225296535732333745
+      Trucy_Thinking_2_HD_3: 6208465983237357846
+      Trucy_Thinking_2_HD_30: -3903682997783780527
+      Trucy_Thinking_2_HD_31: 4420836945497898527
+      Trucy_Thinking_2_HD_32: 1488882667061123878
+      Trucy_Thinking_2_HD_33: 5044449100637067899
+      Trucy_Thinking_2_HD_4: 132106973065574723
+      Trucy_Thinking_2_HD_5: 8060446082925352659
+      Trucy_Thinking_2_HD_6: 5224675262792239455
+      Trucy_Thinking_2_HD_7: 3020600410692909866
+      Trucy_Thinking_2_HD_8: -3706542379618460208
+      Trucy_Thinking_2_HD_9: -5040351789218799331
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

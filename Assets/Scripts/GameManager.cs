@@ -1,14 +1,13 @@
 using Ace;
 using Ace.StoryParts;
 using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.Scripting.APIUpdating;
 using System.Linq;
 using TMPro;
-using UnityEditor.Search;
-using Ace.Actions;
-using Unity.Collections;
+using UnityEditor.Animations;
+using System.Xml;
 using System;
+using UnityEngine.UI;
+
 public class GameManager : MonoBehaviour
 {
     private bool isMouseDown;
@@ -20,11 +19,19 @@ public class GameManager : MonoBehaviour
     public LocationManager locationManager;
     public ChoiceManager choiceManager;
     public ChallengePanel challengePanel;
-    public TMP_Text locationText;
     public TMP_Text courtRecord;
     public delegate void ClickedHandler();
     public event ClickedHandler Clicked;
     public SavePanel savePanel;
+    public SpriteRenderer backgroundImage;
+    public SpriteRenderer actor;
+    public Button saveButton;
+    public Button courtRecordButton;
+    private Location lastLocation;
+    private Actor lastActor;
+    private string lastPose;
+    private bool wasSpeaking;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -35,8 +42,80 @@ public class GameManager : MonoBehaviour
         actionManager.Talked += HandleTalked;
         actionManager.Presented += HandlePresented;
         actionManager.Examined += HandleExamined;
-        locationText.text = game.CurrentLocation.Name;
         savePanel.GameLoaded += HandleGameLoaded;
+        saveButton.onClick.AddListener(() => HandleSaveButtonClicked());
+        courtRecordButton.onClick.AddListener(() => HandleCourtRecordButtonClicked());
+    }
+
+    private void HandleCourtRecordButtonClicked()
+    {
+        throw new NotImplementedException();
+    }
+
+    public void ShowSavePanel()
+    {
+        savePanel.Show(game);
+        // actionManager.Hide();
+        // dialogueManager.dialoguePanel.Hide();
+        // actionManager.movePanel.Hide();
+        // actionManager.talkPanel.Hide();
+        // choiceManager.choicesPanel.Hide();
+    }
+    private void HandleSaveButtonClicked()
+    {
+        ShowSavePanel();
+    }
+
+    private void SetBackground(string locationId)
+    {
+        var newSprite = Resources.Load<Sprite>($"Locations/{locationId}");
+        backgroundImage.sprite = newSprite;
+    }
+
+    private AnimatorController LoadController(string actorId, string pose, bool isSpeaking)
+    {
+        AnimatorController controller = null;
+
+        if (isSpeaking)
+        {
+            controller = Resources.Load<AnimatorController>($"Actors/{actorId}/{pose}/speaking");
+            if (controller == null)
+            {
+                controller = Resources.Load<AnimatorController>($"Actors/{actorId}/default/speaking");
+            }
+        }
+
+        if (controller == null)
+        {
+            controller = Resources.Load<AnimatorController>($"Actors/{actorId}/{pose}/default");
+        }
+
+        if (controller == null)
+        {
+            controller = Resources.Load<AnimatorController>($"Actors/{actorId}/default/default");
+        }
+        return controller;
+    }
+
+    private void SetActorVisual(string actorId, string pose, bool isSpeaking)
+    {
+        bool hasActor = !string.IsNullOrEmpty(actorId);
+        bool hasPose = !string.IsNullOrEmpty(pose);
+
+        actor.gameObject.SetActive(hasActor);
+        if (hasActor)
+        {
+            if (!hasPose)
+            {
+                pose = "default";
+            }
+
+            var animator = actor.GetComponent<Animator>();
+            actor.sprite = null;
+            var controller = LoadController(actorId, pose, isSpeaking);
+            animator.runtimeAnimatorController = controller;
+            actor.sprite = null;
+        }
     }
 
     private void HandleExamined(int option)
@@ -134,18 +213,46 @@ public class GameManager : MonoBehaviour
         return landmarks.ToArray();
     }
 
+    
+
     // Update is called once per frame
     void Update()
     {
-        locationText.text = game.CurrentLocation.Name;
+        
+        if (game?.CurrentLocation != lastLocation)
+        {
+            lastLocation = game?.CurrentLocation;
+            if (lastLocation != null)
+            {
+                SetBackground(lastLocation.Id);
+            }
+        }
+
+        var currentActor = dialogueManager.IsShowing ?
+            dialogueManager.Actor : game?.CurrentLocation?.Actor;
+
+        var currentPose = dialogueManager.IsShowing ?
+            dialogueManager.ActorPose : game?.CurrentLocation?.ActorPose;
+
+        var isSpeaking = !dialogueManager.IsIdle;
+
+        if (currentActor?.Id == "pw")
+        {
+            currentActor = lastActor;
+            isSpeaking = false;
+        }
+
+        if (currentActor != lastActor || currentPose != lastPose || wasSpeaking != isSpeaking)
+        {
+            lastActor = currentActor;
+            lastPose = currentPose;
+            wasSpeaking = isSpeaking;
+            SetActorVisual(currentActor?.Id, currentPose, isSpeaking);
+        }
+
         if (Input.GetKeyDown(KeyCode.S))
         {
-            savePanel.Show(game);
-            actionManager.Hide();
-            dialogueManager.dialoguePanel.Hide();
-            actionManager.movePanel.Hide();
-            actionManager.talkPanel.Hide();
-            //choiceManager.choicesPanel.Hide();
+            ShowSavePanel();
             
         }
         if (Input.GetMouseButtonDown(0) && !isMouseDown)

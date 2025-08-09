@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 3b30412bb10be344db3bed2733941473
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3168181745358432055
+    second: Trucy_Serious_2_HD_0
+  - first:
+      213: 3521551645188593110
+    second: Trucy_Serious_2_HD_1
+  - first:
+      213: -673625363994089233
+    second: Trucy_Serious_2_HD_2
+  - first:
+      213: 9016857202942745923
+    second: Trucy_Serious_2_HD_3
+  - first:
+      213: -4861571020891397467
+    second: Trucy_Serious_2_HD_4
+  - first:
+      213: -1663295732441104380
+    second: Trucy_Serious_2_HD_5
+  - first:
+      213: -6624777459634763408
+    second: Trucy_Serious_2_HD_6
+  - first:
+      213: -6143552386798543168
+    second: Trucy_Serious_2_HD_7
+  - first:
+      213: -7358359070005145450
+    second: Trucy_Serious_2_HD_8
+  - first:
+      213: 3474574983643163192
+    second: Trucy_Serious_2_HD_9
+  - first:
+      213: 3750620549251341384
+    second: Trucy_Serious_2_HD_10
+  - first:
+      213: -4820587440029957865
+    second: Trucy_Serious_2_HD_11
+  - first:
+      213: 1767584724459877552
+    second: Trucy_Serious_2_HD_12
+  - first:
+      213: -6754557546257117980
+    second: Trucy_Serious_2_HD_13
+  - first:
+      213: 4285567097031131724
+    second: Trucy_Serious_2_HD_14
+  - first:
+      213: 3482154549319017400
+    second: Trucy_Serious_2_HD_15
+  - first:
+      213: 2150760374956060029
+    second: Trucy_Serious_2_HD_16
+  - first:
+      213: 7579923899383379930
+    second: Trucy_Serious_2_HD_17
+  - first:
+      213: -2036522400569877185
+    second: Trucy_Serious_2_HD_18
+  - first:
+      213: -8431104112098530114
+    second: Trucy_Serious_2_HD_19
+  - first:
+      213: -6311491407992026507
+    second: Trucy_Serious_2_HD_20
+  - first:
+      213: 58630624384898309
+    second: Trucy_Serious_2_HD_21
+  - first:
+      213: -2135889635425283338
+    second: Trucy_Serious_2_HD_22
+  - first:
+      213: -3374477107426598853
+    second: Trucy_Serious_2_HD_23
+  - first:
+      213: -3070876697176115913
+    second: Trucy_Serious_2_HD_24
+  - first:
+      213: -5178596159056078733
+    second: Trucy_Serious_2_HD_25
+  - first:
+      213: 2838790351624434744
+    second: Trucy_Serious_2_HD_26
+  - first:
+      213: 3852960398712275618
+    second: Trucy_Serious_2_HD_27
+  - first:
+      213: -1712412929656799458
+    second: Trucy_Serious_2_HD_28
+  - first:
+      213: -7159726964742714372
+    second: Trucy_Serious_2_HD_29
+  - first:
+      213: -2324753663833194537
+    second: Trucy_Serious_2_HD_30
+  - first:
+      213: 378850541097343434
+    second: Trucy_Serious_2_HD_31
+  - first:
+      213: 5467201757338064877
+    second: Trucy_Serious_2_HD_32
+  - first:
+      213: 3680756444367463678
+    second: Trucy_Serious_2_HD_33
+  - first:
+      213: -4218886047001858404
+    second: Trucy_Serious_2_HD_34
+  - first:
+      213: -5804816961520595644
+    second: Trucy_Serious_2_HD_35
+  - first:
+      213: 3823265126725155323
+    second: Trucy_Serious_2_HD_36
+  - first:
+      213: 2806016030218877243
+    second: Trucy_Serious_2_HD_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_0
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 5375
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73767fbf284a7fb20800000000000000
+      internalID: 3168181745358432055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_1
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 5375
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d598a530901fd030800000000000000
+      internalID: 3521551645188593110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_2
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 5375
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8607bec4dc6a6f0800000000000000
+      internalID: -673625363994089233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_3
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 5375
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d13db4adf422d70800000000000000
+      internalID: 9016857202942745923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_4
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 5375
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a26f690aea388cb0800000000000000
+      internalID: -4861571020891397467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 4607
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400cc670859cae8e0800000000000000
+      internalID: -1663295732441104380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_6
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 4607
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079847200001014a0800000000000000
+      internalID: -6624777459634763408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_7
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 4607
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce9ed577a7bdbaa0800000000000000
+      internalID: -6143552386798543168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_8
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 4607
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690d19e796bd1e990800000000000000
+      internalID: -7358359070005145450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_9
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 4607
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a628dd98b283030800000000000000
+      internalID: 3474574983643163192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3839
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c18659481ec0430800000000000000
+      internalID: 3750620549251341384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_11
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 3839
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7110e4c8345d91db0800000000000000
+      internalID: -4820587440029957865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_12
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 3839
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b476db11f8b78810800000000000000
+      internalID: 1767584724459877552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_13
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 3839
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec0968e2bdf242a0800000000000000
+      internalID: -6754557546257117980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_14
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 3839
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4284af9194697b30800000000000000
+      internalID: 4285567097031131724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3071
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3ab250d19135030800000000000000
+      internalID: 3482154549319017400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_16
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 3071
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ded327a2909dd10800000000000000
+      internalID: 2150760374956060029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_17
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 3071
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad77d3750ac413960800000000000000
+      internalID: 7579923899383379930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_18
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 3071
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d18e8aaa1dcb3e0800000000000000
+      internalID: -2036522400569877185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_19
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 3071
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc280eda73befa80800000000000000
+      internalID: -8431104112098530114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_20
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2303
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a84bf01041968a0800000000000000
+      internalID: -6311491407992026507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_21
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 2303
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505db630e3c40d000800000000000000
+      internalID: 58630624384898309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_22
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 2303
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2990961bbcb52e0800000000000000
+      internalID: -2135889635425283338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_23
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 2303
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30662513f27b21d0800000000000000
+      internalID: -3374477107426598853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_24
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 2303
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735fac30aed0265d0800000000000000
+      internalID: -3070876697176115913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1535
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37892401b3ee128b0800000000000000
+      internalID: -5178596159056078733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_26
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1535
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8347164c8c8656720800000000000000
+      internalID: 2838790351624434744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_27
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 1535
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a284ea9117787530800000000000000
+      internalID: 3852960398712275618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_28
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 1535
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f350363894c38e0800000000000000
+      internalID: -1712412929656799458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_29
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 1535
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb89b9624a83ac90800000000000000
+      internalID: -7159726964742714372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_30
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 767
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df3fec1cd0dcbfd0800000000000000
+      internalID: -2324753663833194537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_31
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 767
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac952155f82f14500800000000000000
+      internalID: 378850541097343434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_32
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 767
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7d68528076fdb40800000000000000
+      internalID: 5467201757338064877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_33
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 767
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4a0431c7ca41330800000000000000
+      internalID: 3680756444367463678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_34
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 767
+        width: 365
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e2a9c2e718375c0800000000000000
+      internalID: -4218886047001858404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_35
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 365
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d076e8ab5217fa0800000000000000
+      internalID: -5804816961520595644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_36
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 0
+        width: 365
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf977905067fe0530800000000000000
+      internalID: 3823265126725155323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Serious_2_HD_37
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 0
+        width: 365
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b397f3b66b8f0f620800000000000000
+      internalID: 2806016030218877243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trucy_Serious_2_HD_0: 3168181745358432055
+      Trucy_Serious_2_HD_1: 3521551645188593110
+      Trucy_Serious_2_HD_10: 3750620549251341384
+      Trucy_Serious_2_HD_11: -4820587440029957865
+      Trucy_Serious_2_HD_12: 1767584724459877552
+      Trucy_Serious_2_HD_13: -6754557546257117980
+      Trucy_Serious_2_HD_14: 4285567097031131724
+      Trucy_Serious_2_HD_15: 3482154549319017400
+      Trucy_Serious_2_HD_16: 2150760374956060029
+      Trucy_Serious_2_HD_17: 7579923899383379930
+      Trucy_Serious_2_HD_18: -2036522400569877185
+      Trucy_Serious_2_HD_19: -8431104112098530114
+      Trucy_Serious_2_HD_2: -673625363994089233
+      Trucy_Serious_2_HD_20: -6311491407992026507
+      Trucy_Serious_2_HD_21: 58630624384898309
+      Trucy_Serious_2_HD_22: -2135889635425283338
+      Trucy_Serious_2_HD_23: -3374477107426598853
+      Trucy_Serious_2_HD_24: -3070876697176115913
+      Trucy_Serious_2_HD_25: -5178596159056078733
+      Trucy_Serious_2_HD_26: 2838790351624434744
+      Trucy_Serious_2_HD_27: 3852960398712275618
+      Trucy_Serious_2_HD_28: -1712412929656799458
+      Trucy_Serious_2_HD_29: -7159726964742714372
+      Trucy_Serious_2_HD_3: 9016857202942745923
+      Trucy_Serious_2_HD_30: -2324753663833194537
+      Trucy_Serious_2_HD_31: 378850541097343434
+      Trucy_Serious_2_HD_32: 5467201757338064877
+      Trucy_Serious_2_HD_33: 3680756444367463678
+      Trucy_Serious_2_HD_34: -4218886047001858404
+      Trucy_Serious_2_HD_35: -5804816961520595644
+      Trucy_Serious_2_HD_36: 3823265126725155323
+      Trucy_Serious_2_HD_37: 2806016030218877243
+      Trucy_Serious_2_HD_4: -4861571020891397467
+      Trucy_Serious_2_HD_5: -1663295732441104380
+      Trucy_Serious_2_HD_6: -6624777459634763408
+      Trucy_Serious_2_HD_7: -6143552386798543168
+      Trucy_Serious_2_HD_8: -7358359070005145450
+      Trucy_Serious_2_HD_9: 3474574983643163192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -209,6 +209,14 @@ namespace Ace.Importers
                         }
                         var actorId = parts[0].Trim();
                         var line = parts[1].Trim();
+                        var pose = "default";
+
+                        var actorParts = actorId.Split("/");
+                        actorId = actorParts[0];
+                        if (actorParts.Length == 2)
+                        {
+                            pose = actorParts[1].Trim();
+                        }
 
                         var dialogueLine = new DialogueLine();
                         if (lineNumber == 1)
@@ -221,6 +229,7 @@ namespace Ace.Importers
                         }
                         dialogueLine.Refs[nameof(dialogueLine.Actor)] = actorId;
                         dialogueLine.Line = line;
+                        dialogueLine.Pose = pose;
                         dialogueLines.Add(dialogueLine);
                     }
                 }

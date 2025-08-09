@@ -7,31 +7,30 @@ public class DialogueWriter
     private GameManager gameManager;
 
     public bool IsDone { get; set; }
-    public DialogueWriter(GameManager gameManager, string actorName, string line)
+
+    private bool DialogueIsIdle { get; set; }
+    public DialogueWriter(GameManager gameManager, Actor actor, string pose, string line)
     {
         this.gameManager = gameManager;
-        gameManager.dialogueManager.BecameIdle += HandleDialogueBecameIdle;
-        gameManager.dialogueManager.ShowDialogue(line, actorName);
-    }
-
-    private void HandleDialogueBecameIdle()
-    {
-        if (gameManager != null)
-        {
-            gameManager.Clicked += HandleClick;
-        }
+        gameManager.dialogueManager.ShowDialogue(line, actor, pose);
+        gameManager.Clicked += HandleClick;
     }
 
     public void Dispose()
     {
         gameManager.dialogueManager.HideDialogue();
         gameManager.Clicked -= HandleClick;
-        gameManager.dialogueManager.BecameIdle -= HandleDialogueBecameIdle;
         gameManager = null;
     }
 
     private void HandleClick()
     {
-        IsDone = true;
+        if (gameManager.dialogueManager.IsIdle)
+        {
+            IsDone = true;
+        } else
+        {
+            gameManager.dialogueManager.SkipToEnd();
+        }
     }
 }

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Ace.StoryParts;
+using Microsoft.Unity.VisualStudio.Editor;
 
 namespace Ace
 {
@@ -11,6 +12,7 @@ namespace Ace
     {
         public string Name { get; set; }
         public Actor Actor { get; set; }
+        public string ActorPose { get; set; }
          
         public bool CanMoveTo { get; set; }
         public List<Landmark> Landmarks { get; set; } = new List<Landmark>();
@@ -20,6 +22,7 @@ namespace Ace
         public Presentation Presentation { get; set; }
         public IStoryPart AutoStoryPart { get; set; }
 
+        public string ImageName { get; set; }
         public Location()
         {
         }

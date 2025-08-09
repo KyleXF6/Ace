@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 4f2352768dcb85040b8047dfadc33286
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1757823433415988599
+    second: thinking_frames_0
+  - first:
+      213: -6927833823532948265
+    second: thinking_frames_1
+  - first:
+      213: 6339254369232232323
+    second: thinking_frames_2
+  - first:
+      213: 6504237518560323694
+    second: thinking_frames_3
+  - first:
+      213: -7566734265180680916
+    second: thinking_frames_4
+  - first:
+      213: -1372270357833843949
+    second: thinking_frames_5
+  - first:
+      213: 5339551140976831837
+    second: thinking_frames_6
+  - first:
+      213: -3807980323490904532
+    second: thinking_frames_7
+  - first:
+      213: -1712005293950732606
+    second: thinking_frames_8
+  - first:
+      213: 8345214039859087970
+    second: thinking_frames_9
+  - first:
+      213: -2395701463692790552
+    second: thinking_frames_10
+  - first:
+      213: 5860436547449883869
+    second: thinking_frames_11
+  - first:
+      213: -4181094312727647662
+    second: thinking_frames_12
+  - first:
+      213: 8354867180752463476
+    second: thinking_frames_13
+  - first:
+      213: -3461280934257676469
+    second: thinking_frames_14
+  - first:
+      213: 2138353043098813608
+    second: thinking_frames_15
+  - first:
+      213: -1200654131839025954
+    second: thinking_frames_16
+  - first:
+      213: 310888688413167022
+    second: thinking_frames_17
+  - first:
+      213: -5762437560561113920
+    second: thinking_frames_18
+  - first:
+      213: -133307697805697348
+    second: thinking_frames_19
+  - first:
+      213: 589839350095837150
+    second: thinking_frames_20
+  - first:
+      213: 4342824942983504456
+    second: thinking_frames_21
+  - first:
+      213: -5614407421790944754
+    second: thinking_frames_22
+  - first:
+      213: 8000980024454641984
+    second: thinking_frames_23
+  - first:
+      213: -127576448624681504
+    second: thinking_frames_24
+  - first:
+      213: 8561588791371540348
+    second: thinking_frames_25
+  - first:
+      213: 6812879251015151865
+    second: thinking_frames_26
+  - first:
+      213: -6092529691081579894
+    second: thinking_frames_27
+  - first:
+      213: 1599564896505239360
+    second: thinking_frames_28
+  - first:
+      213: -3342906411723089373
+    second: thinking_frames_29
+  - first:
+      213: 1332470800484177437
+    second: thinking_frames_30
+  - first:
+      213: 921998123071212905
+    second: thinking_frames_31
+  - first:
+      213: -2402588815756051387
+    second: thinking_frames_32
+  - first:
+      213: -7506972071084142797
+    second: thinking_frames_33
+  - first:
+      213: 5343419828626660243
+    second: thinking_frames_34
+  - first:
+      213: -1495165194744003199
+    second: thinking_frames_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thinking_frames_0
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 4479
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7751e9e691b056810800000000000000
+      internalID: 1757823433415988599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_1
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 4479
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4e16db7d36bdf90800000000000000
+      internalID: -6927833823532948265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_2
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 4479
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f1ee2134e89f750800000000000000
+      internalID: 6339254369232232323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_3
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 4479
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e686e8cef81b34a50800000000000000
+      internalID: 6504237518560323694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_4
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 4479
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d012ea64f8df690800000000000000
+      internalID: -7566734265180680916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3839
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bf3815167b4fce0800000000000000
+      internalID: -1372270357833843949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_6
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 3839
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5da4f9f875e91a40800000000000000
+      internalID: 5339551140976831837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_7
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 3839
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26c5a24216572bc0800000000000000
+      internalID: -3807980323490904532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_8
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 3839
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c67a78714cbd38e0800000000000000
+      internalID: -1712005293950732606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_9
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 3839
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a476454f720d370800000000000000
+      internalID: 8345214039859087970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3199
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e435b43632c0ced0800000000000000
+      internalID: -2395701463692790552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_11
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 3199
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc877f6df3745150800000000000000
+      internalID: 5860436547449883869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_12
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 3199
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a667dffd4c9f5c0800000000000000
+      internalID: -4181094312727647662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_13
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 3199
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476e1565f6372f370800000000000000
+      internalID: 8354867180752463476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_14
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 3199
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f2db5345f07ffc0800000000000000
+      internalID: -3461280934257676469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2559
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4c74263c4fcad10800000000000000
+      internalID: 2138353043098813608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_16
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2559
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc31adad6b665fe0800000000000000
+      internalID: -1200654131839025954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_17
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 2559
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadcd8d6d9f705400800000000000000
+      internalID: 310888688413167022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_18
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 2559
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4e262c195b700b0800000000000000
+      internalID: -5762437560561113920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_19
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 2559
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe577aea55662ef0800000000000000
+      internalID: -133307697805697348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1919
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7720983c78f2800800000000000000
+      internalID: 589839350095837150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_21
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1919
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842ec30c640d44c30800000000000000
+      internalID: 4342824942983504456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_22
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 1919
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0285df323e9512b0800000000000000
+      internalID: -5614407421790944754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_23
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 1919
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0497d94f0f0390f60800000000000000
+      internalID: 8000980024454641984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_24
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 1919
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed150a55e1ca3ef0800000000000000
+      internalID: -127576448624681504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1279
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77aaaef4afd0d670800000000000000
+      internalID: 8561588791371540348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_26
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1279
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0336625953c8e50800000000000000
+      internalID: 6812879251015151865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_27
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 1279
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82ef8b868cf27ba0800000000000000
+      internalID: -6092529691081579894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_28
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 1279
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047116b6ccbc23610800000000000000
+      internalID: 1599564896505239360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_29
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 1279
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a9edb745c9b91d0800000000000000
+      internalID: -3342906411723089373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_30
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 639
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1690702223ed7210800000000000000
+      internalID: 1332470800484177437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_31
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 639
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d8c3178689bcc00800000000000000
+      internalID: 921998123071212905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_32
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 639
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cb887933a48aed0800000000000000
+      internalID: -2402588815756051387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_33
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 639
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f404ccca0e1d790800000000000000
+      internalID: -7506972071084142797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_34
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 639
+        width: 248
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b12130604a72a40800000000000000
+      internalID: 5343419828626660243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thinking_frames_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 248
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18581c65d2b104be0800000000000000
+      internalID: -1495165194744003199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      thinking_frames_0: 1757823433415988599
+      thinking_frames_1: -6927833823532948265
+      thinking_frames_10: -2395701463692790552
+      thinking_frames_11: 5860436547449883869
+      thinking_frames_12: -4181094312727647662
+      thinking_frames_13: 8354867180752463476
+      thinking_frames_14: -3461280934257676469
+      thinking_frames_15: 2138353043098813608
+      thinking_frames_16: -1200654131839025954
+      thinking_frames_17: 310888688413167022
+      thinking_frames_18: -5762437560561113920
+      thinking_frames_19: -133307697805697348
+      thinking_frames_2: 6339254369232232323
+      thinking_frames_20: 589839350095837150
+      thinking_frames_21: 4342824942983504456
+      thinking_frames_22: -5614407421790944754
+      thinking_frames_23: 8000980024454641984
+      thinking_frames_24: -127576448624681504
+      thinking_frames_25: 8561588791371540348
+      thinking_frames_26: 6812879251015151865
+      thinking_frames_27: -6092529691081579894
+      thinking_frames_28: 1599564896505239360
+      thinking_frames_29: -3342906411723089373
+      thinking_frames_3: 6504237518560323694
+      thinking_frames_30: 1332470800484177437
+      thinking_frames_31: 921998123071212905
+      thinking_frames_32: -2402588815756051387
+      thinking_frames_33: -7506972071084142797
+      thinking_frames_34: 5343419828626660243
+      thinking_frames_35: -1495165194744003199
+      thinking_frames_4: -7566734265180680916
+      thinking_frames_5: -1372270357833843949
+      thinking_frames_6: 5339551140976831837
+      thinking_frames_7: -3807980323490904532
+      thinking_frames_8: -1712005293950732606
+      thinking_frames_9: 8345214039859087970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

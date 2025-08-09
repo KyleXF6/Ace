@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 22d82f9a6c4f3a44788d557d109bda75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3620659937015294349
+    second: Trucy_Talking_0
+  - first:
+      213: 1605421492501477317
+    second: Trucy_Talking_1
+  - first:
+      213: -6914160670018202995
+    second: Trucy_Talking_2
+  - first:
+      213: 5660668036017826280
+    second: Trucy_Talking_3
+  - first:
+      213: -5661001829924605508
+    second: Trucy_Talking_4
+  - first:
+      213: -3294818889970805576
+    second: Trucy_Talking_5
+  - first:
+      213: 2890496673987885955
+    second: Trucy_Talking_6
+  - first:
+      213: -27350844578729468
+    second: Trucy_Talking_7
+  - first:
+      213: 7514963864873608862
+    second: Trucy_Talking_8
+  - first:
+      213: 5718899646581343264
+    second: Trucy_Talking_9
+  - first:
+      213: 2973715955719008199
+    second: Trucy_Talking_10
+  - first:
+      213: 7198571072883465731
+    second: Trucy_Talking_11
+  - first:
+      213: -8731713747442633744
+    second: Trucy_Talking_12
+  - first:
+      213: -1451544248564829202
+    second: Trucy_Talking_13
+  - first:
+      213: 51242445758641473
+    second: Trucy_Talking_14
+  - first:
+      213: -4915169036129225142
+    second: Trucy_Talking_15
+  - first:
+      213: 2504678592792553200
+    second: Trucy_Talking_16
+  - first:
+      213: 6536803077753811168
+    second: Trucy_Talking_17
+  - first:
+      213: 3331328329406029896
+    second: Trucy_Talking_18
+  - first:
+      213: -7355789810022789054
+    second: Trucy_Talking_19
+  - first:
+      213: -1210876233675211294
+    second: Trucy_Talking_20
+  - first:
+      213: 5012293553760750531
+    second: Trucy_Talking_21
+  - first:
+      213: -3478231184620944921
+    second: Trucy_Talking_22
+  - first:
+      213: 2531108548813802948
+    second: Trucy_Talking_23
+  - first:
+      213: -3392825767779579039
+    second: Trucy_Talking_24
+  - first:
+      213: -7847011311505117818
+    second: Trucy_Talking_25
+  - first:
+      213: 8441345669742251360
+    second: Trucy_Talking_26
+  - first:
+      213: -6468064627502474449
+    second: Trucy_Talking_27
+  - first:
+      213: 2665130206137792876
+    second: Trucy_Talking_28
+  - first:
+      213: -4910236825715087982
+    second: Trucy_Talking_29
+  - first:
+      213: -5831739287758921142
+    second: Trucy_Talking_30
+  - first:
+      213: -2103612434307468506
+    second: Trucy_Talking_31
+  - first:
+      213: 497065742715878158
+    second: Trucy_Talking_32
+  - first:
+      213: -7058319890450527474
+    second: Trucy_Talking_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trucy_Talking_0
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 4499
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89e846970b2f3230800000000000000
+      internalID: 3620659937015294349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_1
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 4499
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7f35f675a974610800000000000000
+      internalID: 1605421492501477317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_2
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 4499
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82969fd087fb00a0800000000000000
+      internalID: -6914160670018202995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_3
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 4499
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e92046569bbe8e40800000000000000
+      internalID: 5660668036017826280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_4
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 4499
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1f18634d41071b0800000000000000
+      internalID: -5661001829924605508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 3749
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b41b002da37642d0800000000000000
+      internalID: -3294818889970805576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3749
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bfe75196b1d1820800000000000000
+      internalID: 2890496673987885955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_7
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 3749
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402f3904d84de9ff0800000000000000
+      internalID: -27350844578729468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_8
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 3749
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9620b1b1d38a4860800000000000000
+      internalID: 7514963864873608862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_9
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 3749
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0248694bdec9d5f40800000000000000
+      internalID: 5718899646581343264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2999
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfea8308e2c44920800000000000000
+      internalID: 2973715955719008199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_11
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2999
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e1f99404676e360800000000000000
+      internalID: 7198571072883465731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_12
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 2999
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3794bfb98b2d680800000000000000
+      internalID: -8731713747442633744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_13
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 2999
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3388052341bdbe0800000000000000
+      internalID: -1451544248564829202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_14
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 2999
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145bdd0abbc06b000800000000000000
+      internalID: 51242445758641473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2249
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46b486adcfc9cbb0800000000000000
+      internalID: -4915169036129225142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_16
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2249
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6ece7e8e762c220800000000000000
+      internalID: 2504678592792553200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_17
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 2249
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0323804c367ba50800000000000000
+      internalID: 6536803077753811168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_18
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 2249
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840217827714b3e20800000000000000
+      internalID: 3331328329406029896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_19
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 2249
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2405723f32cfae990800000000000000
+      internalID: -7355789810022789054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1499
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed73d02b7a123fe0800000000000000
+      internalID: -1210876233675211294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_21
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1499
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbc3ed4e6e3f8540800000000000000
+      internalID: 5012293553760750531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_22
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 1499
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e18bf18a27dabfc0800000000000000
+      internalID: -3478231184620944921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_23
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 1499
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd400490dd402320800000000000000
+      internalID: 2531108548813802948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_24
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 1499
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bc4bea0f24ae0d0800000000000000
+      internalID: -3392825767779579039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_25
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 749
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68de34599c0d91390800000000000000
+      internalID: -7847011311505117818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_26
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 749
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dc447992fa52570800000000000000
+      internalID: 8441345669742251360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_27
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 749
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b12759d71dc36a0800000000000000
+      internalID: -6468064627502474449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_28
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 749
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69b1015dc17cf420800000000000000
+      internalID: 2665130206137792876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_29
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 749
+        width: 569
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295e5306f955bdbb0800000000000000
+      internalID: -4910236825715087982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 569
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42a0720400811fa0800000000000000
+      internalID: -5831739287758921142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_31
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 569
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623320ce2a77ec2e0800000000000000
+      internalID: -2103612434307468506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_32
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 0
+        width: 569
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b7890d8aee5e600800000000000000
+      internalID: 497065742715878158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Talking_33
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 0
+        width: 569
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b4f9ac47fcb0e90800000000000000
+      internalID: -7058319890450527474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trucy_Talking_0: 3620659937015294349
+      Trucy_Talking_1: 1605421492501477317
+      Trucy_Talking_10: 2973715955719008199
+      Trucy_Talking_11: 7198571072883465731
+      Trucy_Talking_12: -8731713747442633744
+      Trucy_Talking_13: -1451544248564829202
+      Trucy_Talking_14: 51242445758641473
+      Trucy_Talking_15: -4915169036129225142
+      Trucy_Talking_16: 2504678592792553200
+      Trucy_Talking_17: 6536803077753811168
+      Trucy_Talking_18: 3331328329406029896
+      Trucy_Talking_19: -7355789810022789054
+      Trucy_Talking_2: -6914160670018202995
+      Trucy_Talking_20: -1210876233675211294
+      Trucy_Talking_21: 5012293553760750531
+      Trucy_Talking_22: -3478231184620944921
+      Trucy_Talking_23: 2531108548813802948
+      Trucy_Talking_24: -3392825767779579039
+      Trucy_Talking_25: -7847011311505117818
+      Trucy_Talking_26: 8441345669742251360
+      Trucy_Talking_27: -6468064627502474449
+      Trucy_Talking_28: 2665130206137792876
+      Trucy_Talking_29: -4910236825715087982
+      Trucy_Talking_3: 5660668036017826280
+      Trucy_Talking_30: -5831739287758921142
+      Trucy_Talking_31: -2103612434307468506
+      Trucy_Talking_32: 497065742715878158
+      Trucy_Talking_33: -7058319890450527474
+      Trucy_Talking_4: -5661001829924605508
+      Trucy_Talking_5: -3294818889970805576
+      Trucy_Talking_6: 2890496673987885955
+      Trucy_Talking_7: -27350844578729468
+      Trucy_Talking_8: 7514963864873608862
+      Trucy_Talking_9: 5718899646581343264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

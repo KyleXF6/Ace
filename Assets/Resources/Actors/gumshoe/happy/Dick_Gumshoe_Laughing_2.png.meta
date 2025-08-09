@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: eb5233269f8349d429f15c214a28f34a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4904974945875212104
+    second: Dick_Gumshoe_Laughing_2_0
+  - first:
+      213: 9151228118462082755
+    second: Dick_Gumshoe_Laughing_2_1
+  - first:
+      213: 20720338046149253
+    second: Dick_Gumshoe_Laughing_2_2
+  - first:
+      213: -1483552258549045958
+    second: Dick_Gumshoe_Laughing_2_3
+  - first:
+      213: 8285531562863857312
+    second: Dick_Gumshoe_Laughing_2_4
+  - first:
+      213: 1246147408936864718
+    second: Dick_Gumshoe_Laughing_2_5
+  - first:
+      213: -4916269401871585965
+    second: Dick_Gumshoe_Laughing_2_6
+  - first:
+      213: 5639402745199085749
+    second: Dick_Gumshoe_Laughing_2_7
+  - first:
+      213: -3626589952945686674
+    second: Dick_Gumshoe_Laughing_2_8
+  - first:
+      213: -349861258203057354
+    second: Dick_Gumshoe_Laughing_2_9
+  - first:
+      213: -1542989400933900682
+    second: Dick_Gumshoe_Laughing_2_10
+  - first:
+      213: 780658710827061284
+    second: Dick_Gumshoe_Laughing_2_11
+  - first:
+      213: -583368276452072786
+    second: Dick_Gumshoe_Laughing_2_12
+  - first:
+      213: 9168961856267693485
+    second: Dick_Gumshoe_Laughing_2_13
+  - first:
+      213: -7539027888363962621
+    second: Dick_Gumshoe_Laughing_2_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 43
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8473511c9b8f11440800000000000000
+      internalID: 4904974945875212104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceaf7b0d71bffe70800000000000000
+      internalID: 9151228118462082755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582edd4a90d994000800000000000000
+      internalID: 20720338046149253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_3
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35a47fb41d596be0800000000000000
+      internalID: -1483552258549045958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_4
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae89cbce0f1cf270800000000000000
+      internalID: 8285531562863857312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb847f47743b4110800000000000000
+      internalID: 1246147408936864718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d6259c607e5cbb0800000000000000
+      internalID: -4916269401871585965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b844fcfaee234e40800000000000000
+      internalID: 5639402745199085749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_8
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67fbacf6a3cbadc0800000000000000
+      internalID: -3626589952945686674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_9
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633b2201a0b052bf0800000000000000
+      internalID: -349861258203057354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e5421a053369ae0800000000000000
+      internalID: -1542989400933900682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 4
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42059ad16f475da00800000000000000
+      internalID: 780658710827061284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2a7d4b4a577e7f0800000000000000
+      internalID: -583368276452072786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_13
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 4
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad21f1aa32be3f70800000000000000
+      internalID: 9168961856267693485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Laughing_2_14
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 4
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f7d4a341eff5790800000000000000
+      internalID: -7539027888363962621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dick_Gumshoe_Laughing_2_0: 4904974945875212104
+      Dick_Gumshoe_Laughing_2_1: 9151228118462082755
+      Dick_Gumshoe_Laughing_2_10: -1542989400933900682
+      Dick_Gumshoe_Laughing_2_11: 780658710827061284
+      Dick_Gumshoe_Laughing_2_12: -583368276452072786
+      Dick_Gumshoe_Laughing_2_13: 9168961856267693485
+      Dick_Gumshoe_Laughing_2_14: -7539027888363962621
+      Dick_Gumshoe_Laughing_2_2: 20720338046149253
+      Dick_Gumshoe_Laughing_2_3: -1483552258549045958
+      Dick_Gumshoe_Laughing_2_4: 8285531562863857312
+      Dick_Gumshoe_Laughing_2_5: 1246147408936864718
+      Dick_Gumshoe_Laughing_2_6: -4916269401871585965
+      Dick_Gumshoe_Laughing_2_7: 5639402745199085749
+      Dick_Gumshoe_Laughing_2_8: -3626589952945686674
+      Dick_Gumshoe_Laughing_2_9: -349861258203057354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

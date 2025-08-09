@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 627834b539a3c8b4198fa5911acacd1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1139830257121643775
+    second: Pearl-Crying-1-HD_0
+  - first:
+      213: -4813010134515529613
+    second: Pearl-Crying-1-HD_1
+  - first:
+      213: 7855525234352266741
+    second: Pearl-Crying-1-HD_2
+  - first:
+      213: 6875761531745261980
+    second: Pearl-Crying-1-HD_3
+  - first:
+      213: 8514594004379685094
+    second: Pearl-Crying-1-HD_4
+  - first:
+      213: -4696172627347385140
+    second: Pearl-Crying-1-HD_5
+  - first:
+      213: -3724080969823695154
+    second: Pearl-Crying-1-HD_6
+  - first:
+      213: 302164428584831510
+    second: Pearl-Crying-1-HD_7
+  - first:
+      213: 4245536158360694254
+    second: Pearl-Crying-1-HD_8
+  - first:
+      213: -611569480224185076
+    second: Pearl-Crying-1-HD_9
+  - first:
+      213: -5265362256469150995
+    second: Pearl-Crying-1-HD_10
+  - first:
+      213: 6055643716883760663
+    second: Pearl-Crying-1-HD_11
+  - first:
+      213: -6791360235201331711
+    second: Pearl-Crying-1-HD_12
+  - first:
+      213: -8563320082012927920
+    second: Pearl-Crying-1-HD_13
+  - first:
+      213: 4468048189409767210
+    second: Pearl-Crying-1-HD_14
+  - first:
+      213: -3304841858382642194
+    second: Pearl-Crying-1-HD_15
+  - first:
+      213: -5391053327262372404
+    second: Pearl-Crying-1-HD_16
+  - first:
+      213: 2832890625035751798
+    second: Pearl-Crying-1-HD_17
+  - first:
+      213: -3951410335591529012
+    second: Pearl-Crying-1-HD_18
+  - first:
+      213: -2600311451891286008
+    second: Pearl-Crying-1-HD_19
+  - first:
+      213: -8377248939755420457
+    second: Pearl-Crying-1-HD_20
+  - first:
+      213: 7104105416167894305
+    second: Pearl-Crying-1-HD_21
+  - first:
+      213: 4733106716253073549
+    second: Pearl-Crying-1-HD_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_0
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2559
+        width: 341
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103b5049b628e20f0800000000000000
+      internalID: -1139830257121643775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_1
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 2559
+        width: 332
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378c8d778c0c43db0800000000000000
+      internalID: -4813010134515529613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_2
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 2559
+        width: 320
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd1fad849e640d60800000000000000
+      internalID: 7855525234352266741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_3
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 2559
+        width: 341
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99d8fb0fac9b6f50800000000000000
+      internalID: 6875761531745261980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_4
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 2559
+        width: 332
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0d8bd722ae92670800000000000000
+      internalID: 8514594004379685094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1919
+        width: 320
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4db0770e7d3deb0800000000000000
+      internalID: -4696172627347385140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_6
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1919
+        width: 341
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ececdd6c618615cc0800000000000000
+      internalID: -3724080969823695154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_7
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1919
+        width: 341
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ace8562f0813400800000000000000
+      internalID: 302164428584831510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_8
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 1919
+        width: 332
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed6a2864ac2bea30800000000000000
+      internalID: 4245536158360694254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_9
+      rect:
+        serializedVersion: 2
+        x: 4153
+        y: 1919
+        width: 320
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0564c74cc44387f0800000000000000
+      internalID: -611569480224185076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1279
+        width: 341
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de23861ccecade6b0800000000000000
+      internalID: -5265362256469150995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_11
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1279
+        width: 332
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716ce2750e7f90450800000000000000
+      internalID: 6055643716883760663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_12
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1279
+        width: 320
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e7c1729dd30c1a0800000000000000
+      internalID: -6791360235201331711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_13
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 1279
+        width: 341
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05886ad71c9f82980800000000000000
+      internalID: -8563320082012927920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_14
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 1279
+        width: 332
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fa811d722b10e30800000000000000
+      internalID: 4468048189409767210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 639
+        width: 320
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3c240f6d7d222d0800000000000000
+      internalID: -3304841858382642194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_16
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 639
+        width: 341
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccda657df812f25b0800000000000000
+      internalID: -5391053327262372404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_17
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 639
+        width: 332
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6715ac0a303705720800000000000000
+      internalID: 2832890625035751798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_18
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 639
+        width: 320
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc582493c35c929c0800000000000000
+      internalID: -3951410335591529012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_19
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 639
+        width: 341
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800c3a4f286d9ebd0800000000000000
+      internalID: -2600311451891286008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 332
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d44cde49780ebb80800000000000000
+      internalID: -8377248939755420457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_21
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 0
+        width: 320
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dad91ac3ad69260800000000000000
+      internalID: 7104105416167894305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pearl-Crying-1-HD_22
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 0
+        width: 341
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80b74a3b7f5fa140800000000000000
+      internalID: 4733106716253073549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pearl-Crying-1-HD_0: -1139830257121643775
+      Pearl-Crying-1-HD_1: -4813010134515529613
+      Pearl-Crying-1-HD_10: -5265362256469150995
+      Pearl-Crying-1-HD_11: 6055643716883760663
+      Pearl-Crying-1-HD_12: -6791360235201331711
+      Pearl-Crying-1-HD_13: -8563320082012927920
+      Pearl-Crying-1-HD_14: 4468048189409767210
+      Pearl-Crying-1-HD_15: -3304841858382642194
+      Pearl-Crying-1-HD_16: -5391053327262372404
+      Pearl-Crying-1-HD_17: 2832890625035751798
+      Pearl-Crying-1-HD_18: -3951410335591529012
+      Pearl-Crying-1-HD_19: -2600311451891286008
+      Pearl-Crying-1-HD_2: 7855525234352266741
+      Pearl-Crying-1-HD_20: -8377248939755420457
+      Pearl-Crying-1-HD_21: 7104105416167894305
+      Pearl-Crying-1-HD_22: 4733106716253073549
+      Pearl-Crying-1-HD_3: 6875761531745261980
+      Pearl-Crying-1-HD_4: 8514594004379685094
+      Pearl-Crying-1-HD_5: -4696172627347385140
+      Pearl-Crying-1-HD_6: -3724080969823695154
+      Pearl-Crying-1-HD_7: 302164428584831510
+      Pearl-Crying-1-HD_8: 4245536158360694254
+      Pearl-Crying-1-HD_9: -611569480224185076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

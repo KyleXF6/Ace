@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: acec1ebe9604fc24592502923dd33b30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8935510210442248093
+    second: sad_frames_0
+  - first:
+      213: 387827668661026863
+    second: sad_frames_1
+  - first:
+      213: -5451269981035655893
+    second: sad_frames_2
+  - first:
+      213: -264144231784537431
+    second: sad_frames_3
+  - first:
+      213: 2029496068802204269
+    second: sad_frames_4
+  - first:
+      213: -1295153770524274022
+    second: sad_frames_5
+  - first:
+      213: -5784368519252146453
+    second: sad_frames_6
+  - first:
+      213: -9192499501418491065
+    second: sad_frames_7
+  - first:
+      213: 7194716458962096728
+    second: sad_frames_8
+  - first:
+      213: 3249085452248174818
+    second: sad_frames_9
+  - first:
+      213: -8624956797133478679
+    second: sad_frames_10
+  - first:
+      213: 6094446794644528030
+    second: sad_frames_11
+  - first:
+      213: -1474222916823805998
+    second: sad_frames_12
+  - first:
+      213: 969111916223024676
+    second: sad_frames_13
+  - first:
+      213: -1551219042476456831
+    second: sad_frames_14
+  - first:
+      213: -8786399654899804275
+    second: sad_frames_15
+  - first:
+      213: -2999083010085752999
+    second: sad_frames_16
+  - first:
+      213: -2234084042964460068
+    second: sad_frames_17
+  - first:
+      213: -7994672088624802677
+    second: sad_frames_18
+  - first:
+      213: 655100019814232243
+    second: sad_frames_19
+  - first:
+      213: 3095950082950713181
+    second: sad_frames_20
+  - first:
+      213: -3460640141148526728
+    second: sad_frames_21
+  - first:
+      213: -6388663626994170653
+    second: sad_frames_22
+  - first:
+      213: -1190906483007049170
+    second: sad_frames_23
+  - first:
+      213: 4771129697713203298
+    second: sad_frames_24
+  - first:
+      213: 397101553741319945
+    second: sad_frames_25
+  - first:
+      213: -1657243455078667481
+    second: sad_frames_26
+  - first:
+      213: -3888081872708552268
+    second: sad_frames_27
+  - first:
+      213: -8966248269837024129
+    second: sad_frames_28
+  - first:
+      213: -8983747669602401938
+    second: sad_frames_29
+  - first:
+      213: -3984012253343597576
+    second: sad_frames_30
+  - first:
+      213: 1052948417477633369
+    second: sad_frames_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sad_frames_0
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f394ca13f410c70800000000000000
+      internalID: 8935510210442248093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_1
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20cb98b537d16500800000000000000
+      internalID: 387827668661026863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_2
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d8e9595d23954b0800000000000000
+      internalID: -5451269981035655893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_3
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2a30f7832955cf0800000000000000
+      internalID: -264144231784537431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_4
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62d10efbe73a2c10800000000000000
+      internalID: 2029496068802204269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_5
+      rect:
+        serializedVersion: 2
+        x: 5151
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92946af180b60ee0800000000000000
+      internalID: -1295153770524274022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_6
+      rect:
+        serializedVersion: 2
+        x: 6111
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be606088a7bc9bfa0800000000000000
+      internalID: -5784368519252146453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_7
+      rect:
+        serializedVersion: 2
+        x: 7071
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743defb486ead6080800000000000000
+      internalID: -9192499501418491065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_8
+      rect:
+        serializedVersion: 2
+        x: 8031
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852971c0084c8d360800000000000000
+      internalID: 7194716458962096728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_9
+      rect:
+        serializedVersion: 2
+        x: 8991
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e054222102171d20800000000000000
+      internalID: 3249085452248174818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_10
+      rect:
+        serializedVersion: 2
+        x: 9951
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4a4cf6d7ffd4880800000000000000
+      internalID: -8624956797133478679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_11
+      rect:
+        serializedVersion: 2
+        x: 10911
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b1e49e113d39450800000000000000
+      internalID: 6094446794644528030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_12
+      rect:
+        serializedVersion: 2
+        x: 11871
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df0af261128a8be0800000000000000
+      internalID: -1474222916823805998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_13
+      rect:
+        serializedVersion: 2
+        x: 12831
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e421a372af27d00800000000000000
+      internalID: 969111916223024676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_14
+      rect:
+        serializedVersion: 2
+        x: 13791
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1848e54ef76f87ae0800000000000000
+      internalID: -1551219042476456831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_15
+      rect:
+        serializedVersion: 2
+        x: 14751
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d871513f010701680800000000000000
+      internalID: -8786399654899804275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_16
+      rect:
+        serializedVersion: 2
+        x: 15711
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fede364ed1166d0800000000000000
+      internalID: -2999083010085752999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_17
+      rect:
+        serializedVersion: 2
+        x: 16671
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd1cbc4660fef0e0800000000000000
+      internalID: -2234084042964460068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_18
+      rect:
+        serializedVersion: 2
+        x: 17631
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84d9cdc7183d0190800000000000000
+      internalID: -7994672088624802677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_19
+      rect:
+        serializedVersion: 2
+        x: 18591
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0f0654ff1671900800000000000000
+      internalID: 655100019814232243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_20
+      rect:
+        serializedVersion: 2
+        x: 19551
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f4e98823607fa20800000000000000
+      internalID: 3095950082950713181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_21
+      rect:
+        serializedVersion: 2
+        x: 20511
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877626b702659ffc0800000000000000
+      internalID: -3460640141148526728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_22
+      rect:
+        serializedVersion: 2
+        x: 21471
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4cd83a748e657a0800000000000000
+      internalID: -6388663626994170653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_23
+      rect:
+        serializedVersion: 2
+        x: 22431
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22b7a70ddc097fe0800000000000000
+      internalID: -1190906483007049170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_24
+      rect:
+        serializedVersion: 2
+        x: 23391
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26823897e25763240800000000000000
+      internalID: 4771129697713203298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_25
+      rect:
+        serializedVersion: 2
+        x: 24351
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fc18a52c9c28500800000000000000
+      internalID: 397101553741319945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_26
+      rect:
+        serializedVersion: 2
+        x: 25311
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72be1b9abd94009e0800000000000000
+      internalID: -1657243455078667481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_27
+      rect:
+        serializedVersion: 2
+        x: 26271
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9329ff222ca0ac0800000000000000
+      internalID: -3888081872708552268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_28
+      rect:
+        serializedVersion: 2
+        x: 27231
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74476c24bc719380800000000000000
+      internalID: -8966248269837024129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_29
+      rect:
+        serializedVersion: 2
+        x: 28191
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e610b99a711535380800000000000000
+      internalID: -8983747669602401938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_30
+      rect:
+        serializedVersion: 2
+        x: 29151
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbb6aab6f1f5b8c0800000000000000
+      internalID: -3984012253343597576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad_frames_31
+      rect:
+        serializedVersion: 2
+        x: 30111
+        y: 0
+        width: 257
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9556096c103dc9e00800000000000000
+      internalID: 1052948417477633369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: c058792d43ed56947944bccc642a2175
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5089076300940311657
+    second: Dick_Gumshoe_Determined_2_0
+  - first:
+      213: -8939039781324847572
+    second: Dick_Gumshoe_Determined_2_1
+  - first:
+      213: -4454496603211961463
+    second: Dick_Gumshoe_Determined_2_2
+  - first:
+      213: 6197777342554619921
+    second: Dick_Gumshoe_Determined_2_3
+  - first:
+      213: 3422361167311283921
+    second: Dick_Gumshoe_Determined_2_4
+  - first:
+      213: 1258913193185235111
+    second: Dick_Gumshoe_Determined_2_5
+  - first:
+      213: -8052130028122959518
+    second: Dick_Gumshoe_Determined_2_6
+  - first:
+      213: 900250738754848657
+    second: Dick_Gumshoe_Determined_2_7
+  - first:
+      213: 6319558417676381065
+    second: Dick_Gumshoe_Determined_2_8
+  - first:
+      213: -886116011109292822
+    second: Dick_Gumshoe_Determined_2_9
+  - first:
+      213: 3971674075227647510
+    second: Dick_Gumshoe_Determined_2_10
+  - first:
+      213: 1511721619410465967
+    second: Dick_Gumshoe_Determined_2_11
+  - first:
+      213: -6668043622950078727
+    second: Dick_Gumshoe_Determined_2_12
+  - first:
+      213: 7614458770208068955
+    second: Dick_Gumshoe_Determined_2_13
+  - first:
+      213: 8131426180416729701
+    second: Dick_Gumshoe_Determined_2_14
+  - first:
+      213: 4354204846533022857
+    second: Dick_Gumshoe_Determined_2_15
+  - first:
+      213: -5838407946910399948
+    second: Dick_Gumshoe_Determined_2_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 43
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cf760cee700a640800000000000000
+      internalID: 5089076300940311657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c260c011ea622f380800000000000000
+      internalID: -8939039781324847572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bed58b0f27e22c0800000000000000
+      internalID: -4454496603211961463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_3
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110cee3e7ade20650800000000000000
+      internalID: 6197777342554619921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_4
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d62ea6695bae7f20800000000000000
+      internalID: 3422361167311283921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0dbd211ee887110800000000000000
+      internalID: 1258913193185235111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2619974c666114090800000000000000
+      internalID: -8052130028122959518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1970444f6455e7c00800000000000000
+      internalID: 900250738754848657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b2eeef5e493b750800000000000000
+      internalID: 6319558417676381065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_9
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae46b08ce22e3b3f0800000000000000
+      internalID: -886116011109292822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e629157883e1730800000000000000
+      internalID: 3971674075227647510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa43d3cadc6baf410800000000000000
+      internalID: 1511721619410465967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6704b57a95673a0800000000000000
+      internalID: -6668043622950078727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_13
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b551c1b88edfba960800000000000000
+      internalID: 7614458770208068955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_14
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562fc096701a8d070800000000000000
+      internalID: 8131426180416729701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98492e40d3e3d6c30800000000000000
+      internalID: 4354204846533022857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Determined_2_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432869ec7eec9fea0800000000000000
+      internalID: -5838407946910399948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dick_Gumshoe_Determined_2_0: 5089076300940311657
+      Dick_Gumshoe_Determined_2_1: -8939039781324847572
+      Dick_Gumshoe_Determined_2_10: 3971674075227647510
+      Dick_Gumshoe_Determined_2_11: 1511721619410465967
+      Dick_Gumshoe_Determined_2_12: -6668043622950078727
+      Dick_Gumshoe_Determined_2_13: 7614458770208068955
+      Dick_Gumshoe_Determined_2_14: 8131426180416729701
+      Dick_Gumshoe_Determined_2_15: 4354204846533022857
+      Dick_Gumshoe_Determined_2_16: -5838407946910399948
+      Dick_Gumshoe_Determined_2_2: -4454496603211961463
+      Dick_Gumshoe_Determined_2_3: 6197777342554619921
+      Dick_Gumshoe_Determined_2_4: 3422361167311283921
+      Dick_Gumshoe_Determined_2_5: 1258913193185235111
+      Dick_Gumshoe_Determined_2_6: -8052130028122959518
+      Dick_Gumshoe_Determined_2_7: 900250738754848657
+      Dick_Gumshoe_Determined_2_8: 6319558417676381065
+      Dick_Gumshoe_Determined_2_9: -886116011109292822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

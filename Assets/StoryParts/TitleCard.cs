@@ -21,7 +21,7 @@ namespace Ace.StoryParts
 
         public void Activate(Game game, GameManager gameManager)
         {
-            writer = new DialogueWriter(gameManager, "", $"{game?.CurrentLocation?.Name} \n {Time}");
+            writer = new DialogueWriter(gameManager, null, "", $"{game?.CurrentLocation?.Name} \n {Time}");
         }
 
         public void Deactivate(Game game, GameManager gameManager)

@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 255f75179ce6dce43a763030c3266c8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8676845468349739315
+    second: Dick_Gumshoe_Confident_2_0
+  - first:
+      213: -7084938228244488478
+    second: Dick_Gumshoe_Confident_2_1
+  - first:
+      213: 5250812106816001668
+    second: Dick_Gumshoe_Confident_2_2
+  - first:
+      213: -5387552425158136017
+    second: Dick_Gumshoe_Confident_2_3
+  - first:
+      213: -5158194022944220231
+    second: Dick_Gumshoe_Confident_2_4
+  - first:
+      213: 7173901759130230937
+    second: Dick_Gumshoe_Confident_2_5
+  - first:
+      213: -5567912381702975580
+    second: Dick_Gumshoe_Confident_2_6
+  - first:
+      213: 2308080803775567756
+    second: Dick_Gumshoe_Confident_2_7
+  - first:
+      213: 3870784463514208855
+    second: Dick_Gumshoe_Confident_2_8
+  - first:
+      213: -2584731794883011482
+    second: Dick_Gumshoe_Confident_2_9
+  - first:
+      213: -6160377123041407339
+    second: Dick_Gumshoe_Confident_2_10
+  - first:
+      213: -9209045439651102456
+    second: Dick_Gumshoe_Confident_2_11
+  - first:
+      213: 3111745908631207804
+    second: Dick_Gumshoe_Confident_2_12
+  - first:
+      213: -2057942531428231787
+    second: Dick_Gumshoe_Confident_2_13
+  - first:
+      213: -8692800731597673759
+    second: Dick_Gumshoe_Confident_2_14
+  - first:
+      213: -3886498118460632681
+    second: Dick_Gumshoe_Confident_2_15
+  - first:
+      213: 5449062531377314914
+    second: Dick_Gumshoe_Confident_2_16
+  - first:
+      213: 7939059464493622671
+    second: Dick_Gumshoe_Confident_2_17
+  - first:
+      213: -3360977239470129201
+    second: Dick_Gumshoe_Confident_2_18
+  - first:
+      213: 4310506836619049390
+    second: Dick_Gumshoe_Confident_2_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 43
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 733
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce4e08b407a59780800000000000000
+      internalID: -8676845468349739315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 733
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eed6e1183e3dad90800000000000000
+      internalID: -7084938228244488478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 733
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48696198ac1aed840800000000000000
+      internalID: 5250812106816001668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_3
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 733
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fa7a12d919b35b0800000000000000
+      internalID: -5387552425158136017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_4
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 733
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbdddb8dd96a68b0800000000000000
+      internalID: -5158194022944220231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 489
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990e18614a1de8360800000000000000
+      internalID: 7173901759130230937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 489
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af481c503dcab2b0800000000000000
+      internalID: -5567912381702975580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_7
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 489
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87d0f52343f70020800000000000000
+      internalID: 2308080803775567756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 489
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a8dd516f9c7b530800000000000000
+      internalID: 3870784463514208855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 489
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c17568020312cd0800000000000000
+      internalID: -2584731794883011482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 245
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e8caa45a1f18aa0800000000000000
+      internalID: -6160377123041407339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 245
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8014a29d6f5e23080800000000000000
+      internalID: -9209045439651102456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_12
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 245
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ffc3bca642f2b20800000000000000
+      internalID: 3111745908631207804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_13
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 245
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5955d0ecb28b073e0800000000000000
+      internalID: -2057942531428231787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_14
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 245
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea6dd18ac7fc5780800000000000000
+      internalID: -8692800731597673759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7911ee48d82601ac0800000000000000
+      internalID: -3886498118460632681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cb2ad7085fe9b40800000000000000
+      internalID: 5449062531377314914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8568df15843d2e60800000000000000
+      internalID: 7939059464493622671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_18
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfb53702096b51d0800000000000000
+      internalID: -3360977239470129201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Confident_2_19
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9329e312ff1db30800000000000000
+      internalID: 4310506836619049390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dick_Gumshoe_Confident_2_0: -8676845468349739315
+      Dick_Gumshoe_Confident_2_1: -7084938228244488478
+      Dick_Gumshoe_Confident_2_10: -6160377123041407339
+      Dick_Gumshoe_Confident_2_11: -9209045439651102456
+      Dick_Gumshoe_Confident_2_12: 3111745908631207804
+      Dick_Gumshoe_Confident_2_13: -2057942531428231787
+      Dick_Gumshoe_Confident_2_14: -8692800731597673759
+      Dick_Gumshoe_Confident_2_15: -3886498118460632681
+      Dick_Gumshoe_Confident_2_16: 5449062531377314914
+      Dick_Gumshoe_Confident_2_17: 7939059464493622671
+      Dick_Gumshoe_Confident_2_18: -3360977239470129201
+      Dick_Gumshoe_Confident_2_19: 4310506836619049390
+      Dick_Gumshoe_Confident_2_2: 5250812106816001668
+      Dick_Gumshoe_Confident_2_3: -5387552425158136017
+      Dick_Gumshoe_Confident_2_4: -5158194022944220231
+      Dick_Gumshoe_Confident_2_5: 7173901759130230937
+      Dick_Gumshoe_Confident_2_6: -5567912381702975580
+      Dick_Gumshoe_Confident_2_7: 2308080803775567756
+      Dick_Gumshoe_Confident_2_8: 3870784463514208855
+      Dick_Gumshoe_Confident_2_9: -2584731794883011482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

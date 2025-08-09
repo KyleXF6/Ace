@@ -25,7 +25,7 @@ namespace Ace.StoryParts
 
         public void Activate(Game game, GameManager gameManager)
         {
-            writer = new DialogueWriter(gameManager, Actor?.Name, Line);
+            writer = new DialogueWriter(gameManager, Actor, Pose, Line);
         }
 
         public void Deactivate(Game game, GameManager gameManager)

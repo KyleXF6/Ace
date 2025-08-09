@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 41de1a51029e60d49afff74e7791f743
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5664135050857581844
+    second: Trucy_Happy_Talk_HD_0
+  - first:
+      213: 4023109185288348930
+    second: Trucy_Happy_Talk_HD_1
+  - first:
+      213: -5131571623771783676
+    second: Trucy_Happy_Talk_HD_2
+  - first:
+      213: 7045831756532233522
+    second: Trucy_Happy_Talk_HD_3
+  - first:
+      213: 3287762539782668835
+    second: Trucy_Happy_Talk_HD_4
+  - first:
+      213: -4167913802470955868
+    second: Trucy_Happy_Talk_HD_5
+  - first:
+      213: -1091836860667637825
+    second: Trucy_Happy_Talk_HD_6
+  - first:
+      213: 7045184381692631637
+    second: Trucy_Happy_Talk_HD_7
+  - first:
+      213: 6339020554110770417
+    second: Trucy_Happy_Talk_HD_8
+  - first:
+      213: 4582542727129336015
+    second: Trucy_Happy_Talk_HD_9
+  - first:
+      213: 2824100501075444848
+    second: Trucy_Happy_Talk_HD_10
+  - first:
+      213: -5736776504956427441
+    second: Trucy_Happy_Talk_HD_11
+  - first:
+      213: 1179689347289900521
+    second: Trucy_Happy_Talk_HD_12
+  - first:
+      213: -233412914752638488
+    second: Trucy_Happy_Talk_HD_13
+  - first:
+      213: -8706423730228392390
+    second: Trucy_Happy_Talk_HD_14
+  - first:
+      213: -6742211313217113388
+    second: Trucy_Happy_Talk_HD_15
+  - first:
+      213: 5260288165414158306
+    second: Trucy_Happy_Talk_HD_16
+  - first:
+      213: 6268604602474637859
+    second: Trucy_Happy_Talk_HD_17
+  - first:
+      213: -3589362859717832711
+    second: Trucy_Happy_Talk_HD_18
+  - first:
+      213: -6239415730067044577
+    second: Trucy_Happy_Talk_HD_19
+  - first:
+      213: 5628666002363035182
+    second: Trucy_Happy_Talk_HD_20
+  - first:
+      213: -3283035257107792833
+    second: Trucy_Happy_Talk_HD_21
+  - first:
+      213: -7803219676856613776
+    second: Trucy_Happy_Talk_HD_22
+  - first:
+      213: 5221837251438749094
+    second: Trucy_Happy_Talk_HD_23
+  - first:
+      213: -4642688511987542826
+    second: Trucy_Happy_Talk_HD_24
+  - first:
+      213: 2494174034495610500
+    second: Trucy_Happy_Talk_HD_25
+  - first:
+      213: 2451280744889709999
+    second: Trucy_Happy_Talk_HD_26
+  - first:
+      213: -5770718386586398449
+    second: Trucy_Happy_Talk_HD_27
+  - first:
+      213: -3738931826849152901
+    second: Trucy_Happy_Talk_HD_28
+  - first:
+      213: -8120239497837331830
+    second: Trucy_Happy_Talk_HD_29
+  - first:
+      213: 6479996502053717052
+    second: Trucy_Happy_Talk_HD_30
+  - first:
+      213: 446827281733829834
+    second: Trucy_Happy_Talk_HD_31
+  - first:
+      213: -5663755656318056106
+    second: Trucy_Happy_Talk_HD_32
+  - first:
+      213: 5639265203170675731
+    second: Trucy_Happy_Talk_HD_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 4607
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce27bcd5e23f461b0800000000000000
+      internalID: -5664135050857581844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_1
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 4607
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20529b91d74f4d730800000000000000
+      internalID: 4023109185288348930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_2
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 4607
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ebb91ebcef8c8b0800000000000000
+      internalID: -5131571623771783676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_3
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 4607
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2353543f6a2d7c160800000000000000
+      internalID: 7045831756532233522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_4
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 4607
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32205915c9a70ad20800000000000000
+      internalID: 3287762539782668835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3839
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4654daa789826c0800000000000000
+      internalID: -4167913802470955868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_6
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 3839
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf4a37f82409d0f0800000000000000
+      internalID: -1091836860667637825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_7
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 3839
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a5bef3ed585c160800000000000000
+      internalID: 7045184381692631637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_8
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 3839
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc1cafbb99b8f750800000000000000
+      internalID: 6339020554110770417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_9
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 3839
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8089ab456789f30800000000000000
+      internalID: 4582542727129336015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3071
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074ca986178313720800000000000000
+      internalID: 2824100501075444848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_11
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 3071
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e34ad920e260b0800000000000000
+      internalID: -5736776504956427441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_12
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 3071
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5e68a06391f5010800000000000000
+      internalID: 1179689347289900521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_13
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 3071
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e13e22d030c2ccf0800000000000000
+      internalID: -233412914752638488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_14
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 3071
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e84b7feb19c2780800000000000000
+      internalID: -8706423730228392390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2303
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2f21b488ade62a0800000000000000
+      internalID: -6742211313217113388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_16
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2303
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efb3bb573c400940800000000000000
+      internalID: 5260288165414158306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_17
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 2303
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a21e76cae8ef650800000000000000
+      internalID: 6268604602474637859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_18
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 2303
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffc9801f75003ec0800000000000000
+      internalID: -3589362859717832711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_19
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 2303
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f178e5b83742969a0800000000000000
+      internalID: -6239415730067044577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1535
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eaa2e38e90d1e40800000000000000
+      internalID: 5628666002363035182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_21
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1535
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cb103f3d05072d0800000000000000
+      internalID: -3283035257107792833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_22
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 1535
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0748f901c0565b390800000000000000
+      internalID: -7803219676856613776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_23
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 1535
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5a8ee4051b77840800000000000000
+      internalID: 5221837251438749094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_24
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 1535
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d41238756bd19fb0800000000000000
+      internalID: -4642688511987542826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 767
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e1d16d1161d9220800000000000000
+      internalID: 2494174034495610500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_26
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 767
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5f7eb99d2b40220800000000000000
+      internalID: 2451280744889709999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_27
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 767
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01d3b4b33a4aefa0800000000000000
+      internalID: -5770718386586398449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_28
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 767
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70014d2055ac1cc0800000000000000
+      internalID: -3738931826849152901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_29
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 767
+        width: 425
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a3f48133d1f4f80800000000000000
+      internalID: -8120239497837331830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_30
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 425
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c348fa27c729de950800000000000000
+      internalID: 6479996502053717052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_31
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 425
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4c2bb9b03733600800000000000000
+      internalID: 446827281733829834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_32
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 0
+        width: 425
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6598d8a0d3c4661b0800000000000000
+      internalID: -5663755656318056106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_Talk_HD_33
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 0
+        width: 425
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c853df2d1b24e40800000000000000
+      internalID: 5639265203170675731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trucy_Happy_Talk_HD_0: -5664135050857581844
+      Trucy_Happy_Talk_HD_1: 4023109185288348930
+      Trucy_Happy_Talk_HD_10: 2824100501075444848
+      Trucy_Happy_Talk_HD_11: -5736776504956427441
+      Trucy_Happy_Talk_HD_12: 1179689347289900521
+      Trucy_Happy_Talk_HD_13: -233412914752638488
+      Trucy_Happy_Talk_HD_14: -8706423730228392390
+      Trucy_Happy_Talk_HD_15: -6742211313217113388
+      Trucy_Happy_Talk_HD_16: 5260288165414158306
+      Trucy_Happy_Talk_HD_17: 6268604602474637859
+      Trucy_Happy_Talk_HD_18: -3589362859717832711
+      Trucy_Happy_Talk_HD_19: -6239415730067044577
+      Trucy_Happy_Talk_HD_2: -5131571623771783676
+      Trucy_Happy_Talk_HD_20: 5628666002363035182
+      Trucy_Happy_Talk_HD_21: -3283035257107792833
+      Trucy_Happy_Talk_HD_22: -7803219676856613776
+      Trucy_Happy_Talk_HD_23: 5221837251438749094
+      Trucy_Happy_Talk_HD_24: -4642688511987542826
+      Trucy_Happy_Talk_HD_25: 2494174034495610500
+      Trucy_Happy_Talk_HD_26: 2451280744889709999
+      Trucy_Happy_Talk_HD_27: -5770718386586398449
+      Trucy_Happy_Talk_HD_28: -3738931826849152901
+      Trucy_Happy_Talk_HD_29: -8120239497837331830
+      Trucy_Happy_Talk_HD_3: 7045831756532233522
+      Trucy_Happy_Talk_HD_30: 6479996502053717052
+      Trucy_Happy_Talk_HD_31: 446827281733829834
+      Trucy_Happy_Talk_HD_32: -5663755656318056106
+      Trucy_Happy_Talk_HD_33: 5639265203170675731
+      Trucy_Happy_Talk_HD_4: 3287762539782668835
+      Trucy_Happy_Talk_HD_5: -4167913802470955868
+      Trucy_Happy_Talk_HD_6: -1091836860667637825
+      Trucy_Happy_Talk_HD_7: 7045184381692631637
+      Trucy_Happy_Talk_HD_8: 6339020554110770417
+      Trucy_Happy_Talk_HD_9: 4582542727129336015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 6f31b5aaed09f884683a2d78bbc23cab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3920485131635009040
+    second: Dick_Gumshoe_Angry_2_0
+  - first:
+      213: -4471612556720139705
+    second: Dick_Gumshoe_Angry_2_1
+  - first:
+      213: -4652016504996486082
+    second: Dick_Gumshoe_Angry_2_2
+  - first:
+      213: 2259798162651035750
+    second: Dick_Gumshoe_Angry_2_3
+  - first:
+      213: 2284998604209639600
+    second: Dick_Gumshoe_Angry_2_4
+  - first:
+      213: 2527519951236411513
+    second: Dick_Gumshoe_Angry_2_5
+  - first:
+      213: -6512863208548561962
+    second: Dick_Gumshoe_Angry_2_6
+  - first:
+      213: 5545735447735492429
+    second: Dick_Gumshoe_Angry_2_7
+  - first:
+      213: -8923921344377062466
+    second: Dick_Gumshoe_Angry_2_8
+  - first:
+      213: 6515428102747722164
+    second: Dick_Gumshoe_Angry_2_9
+  - first:
+      213: -5003824968951076949
+    second: Dick_Gumshoe_Angry_2_10
+  - first:
+      213: 8975867806777801636
+    second: Dick_Gumshoe_Angry_2_11
+  - first:
+      213: 1956772684229346299
+    second: Dick_Gumshoe_Angry_2_12
+  - first:
+      213: 2787358163853484722
+    second: Dick_Gumshoe_Angry_2_13
+  - first:
+      213: -5352204632628949898
+    second: Dick_Gumshoe_Angry_2_14
+  - first:
+      213: -3317763745710857603
+    second: Dick_Gumshoe_Angry_2_15
+  - first:
+      213: 7145775873978421286
+    second: Dick_Gumshoe_Angry_2_16
+  - first:
+      213: 2784675629498180104
+    second: Dick_Gumshoe_Angry_2_17
+  - first:
+      213: -9091900465653457594
+    second: Dick_Gumshoe_Angry_2_18
+  - first:
+      213: -8054320468498725128
+    second: Dick_Gumshoe_Angry_2_19
+  - first:
+      213: 7234343868398381017
+    second: Dick_Gumshoe_Angry_2_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 43
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 959
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0162e42a47c586630800000000000000
+      internalID: 3920485131635009040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 959
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742158f3214a1f1c0800000000000000
+      internalID: -4471612556720139705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 959
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e342e6ad2a7b07fb0800000000000000
+      internalID: -4652016504996486082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_3
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 959
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66835ecb47a6c5f10800000000000000
+      internalID: 2259798162651035750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_4
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 959
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0dd24cf12f5bf10800000000000000
+      internalID: 2284998604209639600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 719
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970b828110e831320800000000000000
+      internalID: 2527519951236411513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 719
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db80cf1b69ad95a0800000000000000
+      internalID: -6512863208548561962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_7
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 719
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fd094d10966fc40800000000000000
+      internalID: 5545735447735492429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_8
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 719
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbf0e871dcd72480800000000000000
+      internalID: -8923921344377062466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_9
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 719
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b110e7d6537b6a50800000000000000
+      internalID: 6515428102747722164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 479
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e07fb3b7de8ab0800000000000000
+      internalID: -5003824968951076949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 479
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abfaddc630b09c70800000000000000
+      internalID: 8975867806777801636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_12
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 479
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf38dad836ad72b10800000000000000
+      internalID: 1956772684229346299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 479
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2a5426b7faea620800000000000000
+      internalID: 2787358163853484722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_14
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 479
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c83fa6e3629b5b0800000000000000
+      internalID: -5352204632628949898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d722c38937fe4f1d0800000000000000
+      internalID: -3317763745710857603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 239
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6205a052c45ea2360800000000000000
+      internalID: 7145775873978421286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_17
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 239
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8022dee2bb725a620800000000000000
+      internalID: 2784675629498180104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_18
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 239
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d548b82b413d180800000000000000
+      internalID: -9091900465653457594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_19
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 239
+        width: 233
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6c9ff153e493090800000000000000
+      internalID: -8054320468498725128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Angry_2_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 233
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d729ea4b6d856460800000000000000
+      internalID: 7234343868398381017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dick_Gumshoe_Angry_2_0: 3920485131635009040
+      Dick_Gumshoe_Angry_2_1: -4471612556720139705
+      Dick_Gumshoe_Angry_2_10: -5003824968951076949
+      Dick_Gumshoe_Angry_2_11: 8975867806777801636
+      Dick_Gumshoe_Angry_2_12: 1956772684229346299
+      Dick_Gumshoe_Angry_2_13: 2787358163853484722
+      Dick_Gumshoe_Angry_2_14: -5352204632628949898
+      Dick_Gumshoe_Angry_2_15: -3317763745710857603
+      Dick_Gumshoe_Angry_2_16: 7145775873978421286
+      Dick_Gumshoe_Angry_2_17: 2784675629498180104
+      Dick_Gumshoe_Angry_2_18: -9091900465653457594
+      Dick_Gumshoe_Angry_2_19: -8054320468498725128
+      Dick_Gumshoe_Angry_2_2: -4652016504996486082
+      Dick_Gumshoe_Angry_2_20: 7234343868398381017
+      Dick_Gumshoe_Angry_2_3: 2259798162651035750
+      Dick_Gumshoe_Angry_2_4: 2284998604209639600
+      Dick_Gumshoe_Angry_2_5: 2527519951236411513
+      Dick_Gumshoe_Angry_2_6: -6512863208548561962
+      Dick_Gumshoe_Angry_2_7: 5545735447735492429
+      Dick_Gumshoe_Angry_2_8: -8923921344377062466
+      Dick_Gumshoe_Angry_2_9: 6515428102747722164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

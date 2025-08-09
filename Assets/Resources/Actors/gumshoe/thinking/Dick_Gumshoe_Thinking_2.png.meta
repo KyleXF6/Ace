@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 272ffbd91deacd04abe8bb32db492d2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -579777132627814939
+    second: Dick_Gumshoe_Thinking_2_0
+  - first:
+      213: 8253499098246658608
+    second: Dick_Gumshoe_Thinking_2_1
+  - first:
+      213: 5375385106039417605
+    second: Dick_Gumshoe_Thinking_2_2
+  - first:
+      213: -5367047685740899056
+    second: Dick_Gumshoe_Thinking_2_3
+  - first:
+      213: 8077597203329848676
+    second: Dick_Gumshoe_Thinking_2_4
+  - first:
+      213: 7605219098291809627
+    second: Dick_Gumshoe_Thinking_2_5
+  - first:
+      213: 5458550642323107703
+    second: Dick_Gumshoe_Thinking_2_6
+  - first:
+      213: 1348863619477088787
+    second: Dick_Gumshoe_Thinking_2_7
+  - first:
+      213: -3909368215714460726
+    second: Dick_Gumshoe_Thinking_2_8
+  - first:
+      213: -4353560512274318708
+    second: Dick_Gumshoe_Thinking_2_9
+  - first:
+      213: 5429001964237132974
+    second: Dick_Gumshoe_Thinking_2_10
+  - first:
+      213: 1245444426424007560
+    second: Dick_Gumshoe_Thinking_2_11
+  - first:
+      213: 8446847772397762429
+    second: Dick_Gumshoe_Thinking_2_12
+  - first:
+      213: 9096674265366292552
+    second: Dick_Gumshoe_Thinking_2_13
+  - first:
+      213: -8013544445364527276
+    second: Dick_Gumshoe_Thinking_2_14
+  - first:
+      213: -6663611721849479857
+    second: Dick_Gumshoe_Thinking_2_15
+  - first:
+      213: -6368618919839003459
+    second: Dick_Gumshoe_Thinking_2_16
+  - first:
+      213: -2014987543882167071
+    second: Dick_Gumshoe_Thinking_2_17
+  - first:
+      213: -8661364611725543012
+    second: Dick_Gumshoe_Thinking_2_18
+  - first:
+      213: -8049109710092903886
+    second: Dick_Gumshoe_Thinking_2_19
+  - first:
+      213: 3719768130785425666
+    second: Dick_Gumshoe_Thinking_2_20
+  - first:
+      213: 2287329872873372021
+    second: Dick_Gumshoe_Thinking_2_21
+  - first:
+      213: -1103463465652179262
+    second: Dick_Gumshoe_Thinking_2_22
+  - first:
+      213: -9102673435143249198
+    second: Dick_Gumshoe_Thinking_2_23
+  - first:
+      213: 835627193917853133
+    second: Dick_Gumshoe_Thinking_2_24
+  - first:
+      213: -2801209404696597989
+    second: Dick_Gumshoe_Thinking_2_25
+  - first:
+      213: 8585694935993869617
+    second: Dick_Gumshoe_Thinking_2_26
+  - first:
+      213: -4185980487928918013
+    second: Dick_Gumshoe_Thinking_2_27
+  - first:
+      213: -3924046742710310723
+    second: Dick_Gumshoe_Thinking_2_28
+  - first:
+      213: 2316561274926432274
+    second: Dick_Gumshoe_Thinking_2_29
+  - first:
+      213: 7257410316917389423
+    second: Dick_Gumshoe_Thinking_2_30
+  - first:
+      213: 4152192685599751498
+    second: Dick_Gumshoe_Thinking_2_31
+  - first:
+      213: -4262906891291880585
+    second: Dick_Gumshoe_Thinking_2_32
+  - first:
+      213: -7260471314842280747
+    second: Dick_Gumshoe_Thinking_2_33
+  - first:
+      213: -795299309060299727
+    second: Dick_Gumshoe_Thinking_2_34
+  - first:
+      213: -2821743845924265875
+    second: Dick_Gumshoe_Thinking_2_35
+  - first:
+      213: -1791437526042434934
+    second: Dick_Gumshoe_Thinking_2_36
+  - first:
+      213: 4077266562368819107
+    second: Dick_Gumshoe_Thinking_2_37
+  - first:
+      213: 7144258298530596870
+    second: Dick_Gumshoe_Thinking_2_38
+  - first:
+      213: -6816171869323921834
+    second: Dick_Gumshoe_Thinking_2_39
+  - first:
+      213: 649590915806813115
+    second: Dick_Gumshoe_Thinking_2_40
+  - first:
+      213: -2929023834538602220
+    second: Dick_Gumshoe_Thinking_2_41
+  - first:
+      213: 31720798022851926
+    second: Dick_Gumshoe_Thinking_2_42
+  - first:
+      213: 8985480857272398235
+    second: Dick_Gumshoe_Thinking_2_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 43
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e513d805c734f7f0800000000000000
+      internalID: -579777132627814939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03abff073b15a8270800000000000000
+      internalID: 8253499098246658608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ba7602644399a40800000000000000
+      internalID: 5375385106039417605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_3
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015d4dec09a6485b0800000000000000
+      internalID: -5367047685740899056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_4
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4651a270cd3691070800000000000000
+      internalID: 8077597203329848676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d23b8c97a2b8960800000000000000
+      internalID: 7605219098291809627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f262873eaa0cb40800000000000000
+      internalID: 5458550642323107703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a2169b05028b210800000000000000
+      internalID: 1348863619477088787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_8
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb032e02522fb9c0800000000000000
+      internalID: -3909368215714460726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_9
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ab8bdb7cb0593c0800000000000000
+      internalID: -4353560512274318708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4904bb580b75b40800000000000000
+      internalID: 5429001964237132974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b3e707b15b84110800000000000000
+      internalID: 1245444426424007560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d777191bb4b393570800000000000000
+      internalID: 8446847772397762429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_13
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84868905c01ed3e70800000000000000
+      internalID: 9096674265366292552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_14
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f1e36d8cb2ac090800000000000000
+      internalID: -8013544445364527276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d580eb1781683a0800000000000000
+      internalID: -6663611721849479857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc0a25b5de1e97a0800000000000000
+      internalID: -6368618919839003459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec011431835904e0800000000000000
+      internalID: -2014987543882167071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_18
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99b5f786c6acc780800000000000000
+      internalID: -8661364611725543012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_19
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ad3cb5d51db4090800000000000000
+      internalID: -8049109710092903886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209b84228654f9330800000000000000
+      internalID: 3719768130785425666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579b1cc866a3ebf10800000000000000
+      internalID: 2287329872873372021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce2e2b03d5bfa0f0800000000000000
+      internalID: -1103463465652179262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_23
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2e6ef1dbecca180800000000000000
+      internalID: -9102673435143249198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_24
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd412a618eb89b00800000000000000
+      internalID: 835627193917853133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a639b43ea1029d0800000000000000
+      internalID: -2801209404696597989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135e8c92e04862770800000000000000
+      internalID: 8585694935993869617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300d74cace868e5c0800000000000000
+      internalID: -4185980487928918013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_28
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db829ba274cfa89c0800000000000000
+      internalID: -3924046742710310723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_29
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108a64b434162020800000000000000
+      internalID: 2316561274926432274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68bd195b3087b460800000000000000
+      internalID: 7257410316917389423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_31
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4df5209f3d8f9930800000000000000
+      internalID: 4152192685599751498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7739bf9a4cc17d4c0800000000000000
+      internalID: -4262906891291880585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_33
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc99e88ecf9d3b90800000000000000
+      internalID: -7260471314842280747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_34
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134e859fd7786f4f0800000000000000
+      internalID: -795299309060299727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d602a802ce627d8d0800000000000000
+      internalID: -2821743845924265875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82afeebf098327e0800000000000000
+      internalID: -1791437526042434934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af4290165c559830800000000000000
+      internalID: 4077266562368819107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_38
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6088d831211852360800000000000000
+      internalID: 7144258298530596870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_39
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656ffe86cc71861a0800000000000000
+      internalID: -6816171869323921834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb5cf90f7fc30900800000000000000
+      internalID: 649590915806813115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 4
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4119ca357540a57d0800000000000000
+      internalID: -2929023834538602220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dd422d5e1b07000800000000000000
+      internalID: 31720798022851926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Thinking_2_43
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 4
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b913bc98b37d2bc70800000000000000
+      internalID: 8985480857272398235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dick_Gumshoe_Thinking_2_0: -579777132627814939
+      Dick_Gumshoe_Thinking_2_1: 8253499098246658608
+      Dick_Gumshoe_Thinking_2_10: 5429001964237132974
+      Dick_Gumshoe_Thinking_2_11: 1245444426424007560
+      Dick_Gumshoe_Thinking_2_12: 8446847772397762429
+      Dick_Gumshoe_Thinking_2_13: 9096674265366292552
+      Dick_Gumshoe_Thinking_2_14: -8013544445364527276
+      Dick_Gumshoe_Thinking_2_15: -6663611721849479857
+      Dick_Gumshoe_Thinking_2_16: -6368618919839003459
+      Dick_Gumshoe_Thinking_2_17: -2014987543882167071
+      Dick_Gumshoe_Thinking_2_18: -8661364611725543012
+      Dick_Gumshoe_Thinking_2_19: -8049109710092903886
+      Dick_Gumshoe_Thinking_2_2: 5375385106039417605
+      Dick_Gumshoe_Thinking_2_20: 3719768130785425666
+      Dick_Gumshoe_Thinking_2_21: 2287329872873372021
+      Dick_Gumshoe_Thinking_2_22: -1103463465652179262
+      Dick_Gumshoe_Thinking_2_23: -9102673435143249198
+      Dick_Gumshoe_Thinking_2_24: 835627193917853133
+      Dick_Gumshoe_Thinking_2_25: -2801209404696597989
+      Dick_Gumshoe_Thinking_2_26: 8585694935993869617
+      Dick_Gumshoe_Thinking_2_27: -4185980487928918013
+      Dick_Gumshoe_Thinking_2_28: -3924046742710310723
+      Dick_Gumshoe_Thinking_2_29: 2316561274926432274
+      Dick_Gumshoe_Thinking_2_3: -5367047685740899056
+      Dick_Gumshoe_Thinking_2_30: 7257410316917389423
+      Dick_Gumshoe_Thinking_2_31: 4152192685599751498
+      Dick_Gumshoe_Thinking_2_32: -4262906891291880585
+      Dick_Gumshoe_Thinking_2_33: -7260471314842280747
+      Dick_Gumshoe_Thinking_2_34: -795299309060299727
+      Dick_Gumshoe_Thinking_2_35: -2821743845924265875
+      Dick_Gumshoe_Thinking_2_36: -1791437526042434934
+      Dick_Gumshoe_Thinking_2_37: 4077266562368819107
+      Dick_Gumshoe_Thinking_2_38: 7144258298530596870
+      Dick_Gumshoe_Thinking_2_39: -6816171869323921834
+      Dick_Gumshoe_Thinking_2_4: 8077597203329848676
+      Dick_Gumshoe_Thinking_2_40: 649590915806813115
+      Dick_Gumshoe_Thinking_2_41: -2929023834538602220
+      Dick_Gumshoe_Thinking_2_42: 31720798022851926
+      Dick_Gumshoe_Thinking_2_43: 8985480857272398235
+      Dick_Gumshoe_Thinking_2_5: 7605219098291809627
+      Dick_Gumshoe_Thinking_2_6: 5458550642323107703
+      Dick_Gumshoe_Thinking_2_7: 1348863619477088787
+      Dick_Gumshoe_Thinking_2_8: -3909368215714460726
+      Dick_Gumshoe_Thinking_2_9: -4353560512274318708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

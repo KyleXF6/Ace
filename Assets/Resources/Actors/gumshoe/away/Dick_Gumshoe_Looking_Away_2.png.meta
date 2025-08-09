@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 084e964f6c584dd4b9536e62544a6e52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9197272098245357872
+    second: Dick_Gumshoe_Looking_Away_2_0
+  - first:
+      213: 4376659076946749673
+    second: Dick_Gumshoe_Looking_Away_2_1
+  - first:
+      213: 8171449309187821613
+    second: Dick_Gumshoe_Looking_Away_2_2
+  - first:
+      213: 1255802952490216523
+    second: Dick_Gumshoe_Looking_Away_2_3
+  - first:
+      213: -2485444799296824758
+    second: Dick_Gumshoe_Looking_Away_2_4
+  - first:
+      213: 1510765362772261431
+    second: Dick_Gumshoe_Looking_Away_2_5
+  - first:
+      213: 2427717913766813739
+    second: Dick_Gumshoe_Looking_Away_2_6
+  - first:
+      213: 6395206160253053813
+    second: Dick_Gumshoe_Looking_Away_2_7
+  - first:
+      213: 2305572581149337526
+    second: Dick_Gumshoe_Looking_Away_2_8
+  - first:
+      213: 4271277812859299136
+    second: Dick_Gumshoe_Looking_Away_2_9
+  - first:
+      213: 5337416589287523083
+    second: Dick_Gumshoe_Looking_Away_2_10
+  - first:
+      213: -4333435857262696449
+    second: Dick_Gumshoe_Looking_Away_2_11
+  - first:
+      213: 8155483364171776332
+    second: Dick_Gumshoe_Looking_Away_2_12
+  - first:
+      213: -3184788630346383373
+    second: Dick_Gumshoe_Looking_Away_2_13
+  - first:
+      213: -5799731849295279206
+    second: Dick_Gumshoe_Looking_Away_2_14
+  - first:
+      213: 293988671653336511
+    second: Dick_Gumshoe_Looking_Away_2_15
+  - first:
+      213: 9173728108853091002
+    second: Dick_Gumshoe_Looking_Away_2_16
+  - first:
+      213: -4289683298658921345
+    second: Dick_Gumshoe_Looking_Away_2_17
+  - first:
+      213: 5587516914673475030
+    second: Dick_Gumshoe_Looking_Away_2_18
+  - first:
+      213: 7276904831400512007
+    second: Dick_Gumshoe_Looking_Away_2_19
+  - first:
+      213: 6391842941738600688
+    second: Dick_Gumshoe_Looking_Away_2_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 43
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de497181c9bc5080800000000000000
+      internalID: -9197272098245357872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e86660fd340dbc30800000000000000
+      internalID: 4376659076946749673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20504e3ad1d66170800000000000000
+      internalID: 8171449309187821613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_3
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ce01bb1228d6110800000000000000
+      internalID: 1255802952490216523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_4
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1004
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a121d9f1de18dd0800000000000000
+      internalID: -2485444799296824758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a3103d71157f410800000000000000
+      internalID: 1510765362772261431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b206ce8749cf0b120800000000000000
+      internalID: 2427717913766813739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57be5479e1650c850800000000000000
+      internalID: 6395206160253053813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_8
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7694f0c0a0fff10800000000000000
+      internalID: 2305572581149337526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_9
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 754
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0456c746a80a64b30800000000000000
+      internalID: 4271277812859299136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0382ceeb10521a40800000000000000
+      internalID: 5337416589287523083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7aaee1c0b8cd3c0800000000000000
+      internalID: -4333435857262696449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41011df8e81e2170800000000000000
+      internalID: 8155483364171776332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_13
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff308b4d9b5dc3d0800000000000000
+      internalID: -3184788630346383373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_14
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 504
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b4c328c96338fa0800000000000000
+      internalID: -5799731849295279206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5d2e5a325741400800000000000000
+      internalID: 293988671653336511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba543a4c11af4f70800000000000000
+      internalID: 9173728108853091002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74528084cbf774c0800000000000000
+      internalID: -4289683298658921345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_18
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd599ba709da8d40800000000000000
+      internalID: 5587516914673475030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_19
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 254
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a83f3b362ccf460800000000000000
+      internalID: 7276904831400512007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dick_Gumshoe_Looking_Away_2_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 240
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8ca624a4364b850800000000000000
+      internalID: 6391842941738600688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dick_Gumshoe_Looking_Away_2_0: -9197272098245357872
+      Dick_Gumshoe_Looking_Away_2_1: 4376659076946749673
+      Dick_Gumshoe_Looking_Away_2_10: 5337416589287523083
+      Dick_Gumshoe_Looking_Away_2_11: -4333435857262696449
+      Dick_Gumshoe_Looking_Away_2_12: 8155483364171776332
+      Dick_Gumshoe_Looking_Away_2_13: -3184788630346383373
+      Dick_Gumshoe_Looking_Away_2_14: -5799731849295279206
+      Dick_Gumshoe_Looking_Away_2_15: 293988671653336511
+      Dick_Gumshoe_Looking_Away_2_16: 9173728108853091002
+      Dick_Gumshoe_Looking_Away_2_17: -4289683298658921345
+      Dick_Gumshoe_Looking_Away_2_18: 5587516914673475030
+      Dick_Gumshoe_Looking_Away_2_19: 7276904831400512007
+      Dick_Gumshoe_Looking_Away_2_2: 8171449309187821613
+      Dick_Gumshoe_Looking_Away_2_20: 6391842941738600688
+      Dick_Gumshoe_Looking_Away_2_3: 1255802952490216523
+      Dick_Gumshoe_Looking_Away_2_4: -2485444799296824758
+      Dick_Gumshoe_Looking_Away_2_5: 1510765362772261431
+      Dick_Gumshoe_Looking_Away_2_6: 2427717913766813739
+      Dick_Gumshoe_Looking_Away_2_7: 6395206160253053813
+      Dick_Gumshoe_Looking_Away_2_8: 2305572581149337526
+      Dick_Gumshoe_Looking_Away_2_9: 4271277812859299136
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

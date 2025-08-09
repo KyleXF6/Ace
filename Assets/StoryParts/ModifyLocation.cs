@@ -13,6 +13,7 @@ namespace Ace.StoryParts
         public Conversation Conversation { get; set; }
         public Presentation Presentation { get; set; }
         public Actor Actor { get; set; }
+        public string ActorPose { get; set; }
         public IStoryPart AutoStoryPart { get; set; }
         public IStoryPart PrevPart { get; set; }
 
@@ -26,6 +27,7 @@ namespace Ace.StoryParts
             Location.Presentation = Presentation;
             Location.Conversation = Conversation;
             Location.Actor = Actor;
+            Location.ActorPose = ActorPose;
             Location.CanMoveTo = CanMoveTo;
             Location.AutoStoryPart = AutoStoryPart;
         }

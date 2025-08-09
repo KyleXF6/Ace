@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 84624e06f2ab70d41808022d6c2711e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1628362032282694856
+    second: Trucy_Happy_HD_0
+  - first:
+      213: -356375682303975950
+    second: Trucy_Happy_HD_1
+  - first:
+      213: -551173631356501826
+    second: Trucy_Happy_HD_2
+  - first:
+      213: -9101740493480057687
+    second: Trucy_Happy_HD_3
+  - first:
+      213: -7640239510839616264
+    second: Trucy_Happy_HD_4
+  - first:
+      213: -4513804469274522622
+    second: Trucy_Happy_HD_5
+  - first:
+      213: 2950232463101344795
+    second: Trucy_Happy_HD_6
+  - first:
+      213: 3492834146516501564
+    second: Trucy_Happy_HD_7
+  - first:
+      213: 1227642990297069150
+    second: Trucy_Happy_HD_8
+  - first:
+      213: -6193004040098439015
+    second: Trucy_Happy_HD_9
+  - first:
+      213: -1486685226575583738
+    second: Trucy_Happy_HD_10
+  - first:
+      213: -3792338173741786862
+    second: Trucy_Happy_HD_11
+  - first:
+      213: 8084548286768425425
+    second: Trucy_Happy_HD_12
+  - first:
+      213: 1215621653620037295
+    second: Trucy_Happy_HD_13
+  - first:
+      213: 5219753067047667355
+    second: Trucy_Happy_HD_14
+  - first:
+      213: -100378293589580940
+    second: Trucy_Happy_HD_15
+  - first:
+      213: 7405148226335521188
+    second: Trucy_Happy_HD_16
+  - first:
+      213: -6596277421787917425
+    second: Trucy_Happy_HD_17
+  - first:
+      213: 4146634603703889674
+    second: Trucy_Happy_HD_18
+  - first:
+      213: 2813085736976483522
+    second: Trucy_Happy_HD_19
+  - first:
+      213: 423452213995432247
+    second: Trucy_Happy_HD_20
+  - first:
+      213: 1747892755036105859
+    second: Trucy_Happy_HD_21
+  - first:
+      213: -3404211901217779526
+    second: Trucy_Happy_HD_22
+  - first:
+      213: 8063139013190877171
+    second: Trucy_Happy_HD_23
+  - first:
+      213: 5161108303579493741
+    second: Trucy_Happy_HD_24
+  - first:
+      213: 5692367512949431171
+    second: Trucy_Happy_HD_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_0
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3749
+        width: 415
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c471f314aa199610800000000000000
+      internalID: 1628362032282694856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_1
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 3749
+        width: 418
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd1fa18436ed0bf0800000000000000
+      internalID: -356375682303975950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_2
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 3749
+        width: 418
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb00f65a086d958f0800000000000000
+      internalID: -551173631356501826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_3
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 3749
+        width: 415
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a425588e3f10b180800000000000000
+      internalID: -9101740493480057687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_4
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 3749
+        width: 420
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc108505aa68f590800000000000000
+      internalID: -7640239510839616264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2999
+        width: 427
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c425710cebb51c0800000000000000
+      internalID: -4513804469274522622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_6
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2999
+        width: 418
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c3bff4bc451f820800000000000000
+      internalID: 2950232463101344795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_7
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 2999
+        width: 415
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c348872862a097030800000000000000
+      internalID: 3492834146516501564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_8
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 2999
+        width: 415
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56b7ab9bc6790110800000000000000
+      internalID: 1227642990297069150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_9
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 2999
+        width: 415
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990af5133a70e0aa0800000000000000
+      internalID: -6193004040098439015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2249
+        width: 415
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6062429c9ab3e5be0800000000000000
+      internalID: -1486685226575583738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_11
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2249
+        width: 415
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21997fd0688ee5bc0800000000000000
+      internalID: -3792338173741786862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_12
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 2249
+        width: 418
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9235245d5123070800000000000000
+      internalID: 8084548286768425425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_13
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 2249
+        width: 418
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa69b4d0471ced010800000000000000
+      internalID: 1215621653620037295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_14
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 2249
+        width: 415
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96c1a052c9407840800000000000000
+      internalID: 5219753067047667355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1499
+        width: 420
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473ee6b49726b9ef0800000000000000
+      internalID: -100378293589580940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_16
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1499
+        width: 427
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9b7d3e31f54c660800000000000000
+      internalID: 7405148226335521188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_17
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 1499
+        width: 418
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83d66a22a05574a0800000000000000
+      internalID: -6596277421787917425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_18
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1499
+        width: 415
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fec17c33ecb8930800000000000000
+      internalID: 4146634603703889674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_19
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 1499
+        width: 415
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4833bc2961a0720800000000000000
+      internalID: 2813085736976483522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 749
+        width: 415
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739ec8a8b8760e500800000000000000
+      internalID: 423452213995432247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_21
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 749
+        width: 415
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ce7613333c14810800000000000000
+      internalID: 1747892755036105859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_22
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 749
+        width: 415
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0d1c7ef4fc1c0d0800000000000000
+      internalID: -3404211901217779526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_23
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 749
+        width: 415
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fff5df463606ef60800000000000000
+      internalID: 8063139013190877171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_24
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 749
+        width: 415
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65bc2a48a0ff9740800000000000000
+      internalID: 5161108303579493741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Happy_HD_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 415
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b1354f71a5ffe40800000000000000
+      internalID: 5692367512949431171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trucy_Happy_HD_0: 1628362032282694856
+      Trucy_Happy_HD_1: -356375682303975950
+      Trucy_Happy_HD_10: -1486685226575583738
+      Trucy_Happy_HD_11: -3792338173741786862
+      Trucy_Happy_HD_12: 8084548286768425425
+      Trucy_Happy_HD_13: 1215621653620037295
+      Trucy_Happy_HD_14: 5219753067047667355
+      Trucy_Happy_HD_15: -100378293589580940
+      Trucy_Happy_HD_16: 7405148226335521188
+      Trucy_Happy_HD_17: -6596277421787917425
+      Trucy_Happy_HD_18: 4146634603703889674
+      Trucy_Happy_HD_19: 2813085736976483522
+      Trucy_Happy_HD_2: -551173631356501826
+      Trucy_Happy_HD_20: 423452213995432247
+      Trucy_Happy_HD_21: 1747892755036105859
+      Trucy_Happy_HD_22: -3404211901217779526
+      Trucy_Happy_HD_23: 8063139013190877171
+      Trucy_Happy_HD_24: 5161108303579493741
+      Trucy_Happy_HD_25: 5692367512949431171
+      Trucy_Happy_HD_3: -9101740493480057687
+      Trucy_Happy_HD_4: -7640239510839616264
+      Trucy_Happy_HD_5: -4513804469274522622
+      Trucy_Happy_HD_6: 2950232463101344795
+      Trucy_Happy_HD_7: 3492834146516501564
+      Trucy_Happy_HD_8: 1227642990297069150
+      Trucy_Happy_HD_9: -6193004040098439015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

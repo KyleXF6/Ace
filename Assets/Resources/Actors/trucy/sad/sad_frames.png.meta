@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 5a97f11803b2f274ca3f4a4c3faa777b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7118843171067072371
+    second: Trucy_Sad_2_HD_0
+  - first:
+      213: -4026814467186384002
+    second: Trucy_Sad_2_HD_1
+  - first:
+      213: 5155113563454031032
+    second: Trucy_Sad_2_HD_2
+  - first:
+      213: -2891213352707702119
+    second: Trucy_Sad_2_HD_3
+  - first:
+      213: 2445324078877352422
+    second: Trucy_Sad_2_HD_4
+  - first:
+      213: 2296083921039280181
+    second: Trucy_Sad_2_HD_5
+  - first:
+      213: 5506839725987283226
+    second: Trucy_Sad_2_HD_6
+  - first:
+      213: -3318679491710614345
+    second: Trucy_Sad_2_HD_7
+  - first:
+      213: -1550951635946597791
+    second: Trucy_Sad_2_HD_8
+  - first:
+      213: -2082691592187715113
+    second: Trucy_Sad_2_HD_9
+  - first:
+      213: -6970761364994883225
+    second: Trucy_Sad_2_HD_10
+  - first:
+      213: 5038380886432655290
+    second: Trucy_Sad_2_HD_11
+  - first:
+      213: 8959594026826133296
+    second: Trucy_Sad_2_HD_12
+  - first:
+      213: 4100671926892593993
+    second: Trucy_Sad_2_HD_13
+  - first:
+      213: 6950137588424994390
+    second: Trucy_Sad_2_HD_14
+  - first:
+      213: 655189909124601859
+    second: Trucy_Sad_2_HD_15
+  - first:
+      213: 5969746963756439931
+    second: Trucy_Sad_2_HD_16
+  - first:
+      213: 2942410718133635397
+    second: Trucy_Sad_2_HD_17
+  - first:
+      213: -5433669645459826735
+    second: Trucy_Sad_2_HD_18
+  - first:
+      213: -7405651845814676729
+    second: Trucy_Sad_2_HD_19
+  - first:
+      213: 820731345332801948
+    second: Trucy_Sad_2_HD_20
+  - first:
+      213: -1593073432169643220
+    second: Trucy_Sad_2_HD_21
+  - first:
+      213: -2250295526834136203
+    second: Trucy_Sad_2_HD_22
+  - first:
+      213: 8794014690768402826
+    second: Trucy_Sad_2_HD_23
+  - first:
+      213: -7081589390992355504
+    second: Trucy_Sad_2_HD_24
+  - first:
+      213: -4017137217262122001
+    second: Trucy_Sad_2_HD_25
+  - first:
+      213: 5390343747722281486
+    second: Trucy_Sad_2_HD_26
+  - first:
+      213: 2949857737643389494
+    second: Trucy_Sad_2_HD_27
+  - first:
+      213: 4228469945257468803
+    second: Trucy_Sad_2_HD_28
+  - first:
+      213: -4248371616911966706
+    second: Trucy_Sad_2_HD_29
+  - first:
+      213: -7813490242932269450
+    second: Trucy_Sad_2_HD_30
+  - first:
+      213: -4560253635336323511
+    second: Trucy_Sad_2_HD_31
+  - first:
+      213: 4898687013424496794
+    second: Trucy_Sad_2_HD_32
+  - first:
+      213: 6117013044956029400
+    second: Trucy_Sad_2_HD_33
+  - first:
+      213: -7812289839793665306
+    second: Trucy_Sad_2_HD_34
+  - first:
+      213: 8172504162587139850
+    second: Trucy_Sad_2_HD_35
+  - first:
+      213: 920811625267845441
+    second: Trucy_Sad_2_HD_36
+  - first:
+      213: -1619728908030677634
+    second: Trucy_Sad_2_HD_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_0
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 5249
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80f4d86ad9c43d90800000000000000
+      internalID: -7118843171067072371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_1
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 5249
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73a3fab391ed18c0800000000000000
+      internalID: -4026814467186384002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_2
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 5249
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4c9761974aa8740800000000000000
+      internalID: 5155113563454031032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_3
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 5249
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992cdf526c850e7d0800000000000000
+      internalID: -2891213352707702119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_4
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 5249
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1a13a3b498fe120800000000000000
+      internalID: 2445324078877352422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 4499
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538480839245ddf10800000000000000
+      internalID: 2296083921039280181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_6
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 4499
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a114b76ed893c6c40800000000000000
+      internalID: 5506839725987283226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_7
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 4499
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4073dd59ea1f1d0800000000000000
+      internalID: -3318679491710614345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_8
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 4499
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162979354b9e97ae0800000000000000
+      internalID: -1550951635946597791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_9
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 4499
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d165fe080bc813e0800000000000000
+      internalID: -2082691592187715113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3749
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7618671a871e24f90800000000000000
+      internalID: -6970761364994883225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_11
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 3749
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7afe2c8bcebe540800000000000000
+      internalID: 5038380886432655290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_12
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 3749
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03feea42c4fd65c70800000000000000
+      internalID: 8959594026826133296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_13
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 3749
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94389d6246388e830800000000000000
+      internalID: 4100671926892593993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_14
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 3749
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e69223059d37060800000000000000
+      internalID: 6950137588424994390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2999
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308dac140c3b71900800000000000000
+      internalID: 655189909124601859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_16
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 2999
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b795ba50c3dc8d250800000000000000
+      internalID: 5969746963756439931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_17
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2999
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54948a565fa85d820800000000000000
+      internalID: 2942410718133635397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_18
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 2999
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d75b8b0f3ab794b0800000000000000
+      internalID: -5433669645459826735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_19
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 2999
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703100012e6d93990800000000000000
+      internalID: -7405651845814676729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2249
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9117966fc2d36b00800000000000000
+      internalID: 820731345332801948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_21
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 2249
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c238a66672444e9e0800000000000000
+      internalID: -1593073432169643220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_22
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2249
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b9663142855c0e0800000000000000
+      internalID: -2250295526834136203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_23
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 2249
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8931d0c4cd9a0a70800000000000000
+      internalID: 8794014690768402826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_24
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 2249
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fc9b008f329bd90800000000000000
+      internalID: -7081589390992355504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_25
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1499
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb071f0cf24048c0800000000000000
+      internalID: -4017137217262122001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_26
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1499
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e020c3c44195eca40800000000000000
+      internalID: 5390343747722281486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_27
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1499
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632fb2ebbffffe820800000000000000
+      internalID: 2949857737643389494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_28
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 1499
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383ac76030b8eaa30800000000000000
+      internalID: 4228469945257468803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_29
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 1499
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e3c14f580ca05c0800000000000000
+      internalID: -4248371616911966706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 749
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e9a0e8508e09390800000000000000
+      internalID: -7813490242932269450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_31
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 749
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e381cda79b6b0c0800000000000000
+      internalID: -4560253635336323511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_32
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 749
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a908cf462e1abf340800000000000000
+      internalID: 4898687013424496794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_33
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 749
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1e80f74fef3e450800000000000000
+      internalID: 6117013044956029400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_34
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 749
+        width: 420
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea84b038cb259390800000000000000
+      internalID: -7812289839793665306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_35
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 420
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f58607c319a6170800000000000000
+      internalID: 8172504162587139850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_36
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 0
+        width: 420
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149d3256b4167cc00800000000000000
+      internalID: 920811625267845441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trucy_Sad_2_HD_37
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 0
+        width: 420
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d666cc3219589e0800000000000000
+      internalID: -1619728908030677634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trucy_Sad_2_HD_0: -7118843171067072371
+      Trucy_Sad_2_HD_1: -4026814467186384002
+      Trucy_Sad_2_HD_10: -6970761364994883225
+      Trucy_Sad_2_HD_11: 5038380886432655290
+      Trucy_Sad_2_HD_12: 8959594026826133296
+      Trucy_Sad_2_HD_13: 4100671926892593993
+      Trucy_Sad_2_HD_14: 6950137588424994390
+      Trucy_Sad_2_HD_15: 655189909124601859
+      Trucy_Sad_2_HD_16: 5969746963756439931
+      Trucy_Sad_2_HD_17: 2942410718133635397
+      Trucy_Sad_2_HD_18: -5433669645459826735
+      Trucy_Sad_2_HD_19: -7405651845814676729
+      Trucy_Sad_2_HD_2: 5155113563454031032
+      Trucy_Sad_2_HD_20: 820731345332801948
+      Trucy_Sad_2_HD_21: -1593073432169643220
+      Trucy_Sad_2_HD_22: -2250295526834136203
+      Trucy_Sad_2_HD_23: 8794014690768402826
+      Trucy_Sad_2_HD_24: -7081589390992355504
+      Trucy_Sad_2_HD_25: -4017137217262122001
+      Trucy_Sad_2_HD_26: 5390343747722281486
+      Trucy_Sad_2_HD_27: 2949857737643389494
+      Trucy_Sad_2_HD_28: 4228469945257468803
+      Trucy_Sad_2_HD_29: -4248371616911966706
+      Trucy_Sad_2_HD_3: -2891213352707702119
+      Trucy_Sad_2_HD_30: -7813490242932269450
+      Trucy_Sad_2_HD_31: -4560253635336323511
+      Trucy_Sad_2_HD_32: 4898687013424496794
+      Trucy_Sad_2_HD_33: 6117013044956029400
+      Trucy_Sad_2_HD_34: -7812289839793665306
+      Trucy_Sad_2_HD_35: 8172504162587139850
+      Trucy_Sad_2_HD_36: 920811625267845441
+      Trucy_Sad_2_HD_37: -1619728908030677634
+      Trucy_Sad_2_HD_4: 2445324078877352422
+      Trucy_Sad_2_HD_5: 2296083921039280181
+      Trucy_Sad_2_HD_6: 5506839725987283226
+      Trucy_Sad_2_HD_7: -3318679491710614345
+      Trucy_Sad_2_HD_8: -1550951635946597791
+      Trucy_Sad_2_HD_9: -2082691592187715113
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

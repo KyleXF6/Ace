@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: f19d1bf776959404bb9e26727ffae116
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -408662038832139866
+    second: serious_frames_0
+  - first:
+      213: 8964584639454726982
+    second: serious_frames_1
+  - first:
+      213: 8697626064412265952
+    second: serious_frames_2
+  - first:
+      213: -7748519995152360249
+    second: serious_frames_3
+  - first:
+      213: -1982294281907701760
+    second: serious_frames_4
+  - first:
+      213: -8063089024191823103
+    second: serious_frames_5
+  - first:
+      213: 1309428166744293298
+    second: serious_frames_6
+  - first:
+      213: 880488563504718897
+    second: serious_frames_7
+  - first:
+      213: 1861623434496250079
+    second: serious_frames_8
+  - first:
+      213: 1348342552431080480
+    second: serious_frames_9
+  - first:
+      213: 1322194966088970181
+    second: serious_frames_10
+  - first:
+      213: 7852962028883615289
+    second: serious_frames_11
+  - first:
+      213: -5487270115320605836
+    second: serious_frames_12
+  - first:
+      213: 577956460829697263
+    second: serious_frames_13
+  - first:
+      213: 5578911845998483409
+    second: serious_frames_14
+  - first:
+      213: -8595555780130581849
+    second: serious_frames_15
+  - first:
+      213: -82086292807517874
+    second: serious_frames_16
+  - first:
+      213: -5288346432755208994
+    second: serious_frames_17
+  - first:
+      213: -8197530473417551957
+    second: serious_frames_18
+  - first:
+      213: -3876931176819546628
+    second: serious_frames_19
+  - first:
+      213: -8498951015746980804
+    second: serious_frames_20
+  - first:
+      213: 6112631185928152216
+    second: serious_frames_21
+  - first:
+      213: 574111763570544150
+    second: serious_frames_22
+  - first:
+      213: 8427083969431815744
+    second: serious_frames_23
+  - first:
+      213: -8153803728022718161
+    second: serious_frames_24
+  - first:
+      213: 4024808240525512771
+    second: serious_frames_25
+  - first:
+      213: 928265289345453549
+    second: serious_frames_26
+  - first:
+      213: 889235769778615979
+    second: serious_frames_27
+  - first:
+      213: -5557426920109576162
+    second: serious_frames_28
+  - first:
+      213: -2266421913677658393
+    second: serious_frames_29
+  - first:
+      213: 7465230812413021971
+    second: serious_frames_30
+  - first:
+      213: -6646771406711455152
+    second: serious_frames_31
+  - first:
+      213: 5412070899319517597
+    second: serious_frames_32
+  - first:
+      213: -4354014630749242185
+    second: serious_frames_33
+  - first:
+      213: -4539414435068454223
+    second: serious_frames_34
+  - first:
+      213: -768301505885471600
+    second: serious_frames_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: serious_frames_0
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4479
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a139367a04245af0800000000000000
+      internalID: -408662038832139866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_1
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 4479
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b4f91bb3a986c70800000000000000
+      internalID: 8964584639454726982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_2
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 4479
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edc876d2dc24b870800000000000000
+      internalID: 8697626064412265952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_3
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 4479
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc9ee92e1ab77490800000000000000
+      internalID: -7748519995152360249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_4
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 4479
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0087a9e6ad97d74e0800000000000000
+      internalID: -1982294281907701760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3839
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10302b8a0472a1090800000000000000
+      internalID: -8063089024191823103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_6
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 3839
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf3fa1eaf50c2210800000000000000
+      internalID: 1309428166744293298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_7
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 3839
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1342e78feaf183c00800000000000000
+      internalID: 880488563504718897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_8
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 3839
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd011be76a0d5d910800000000000000
+      internalID: 1861623434496250079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_9
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 3839
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024b239586646b210800000000000000
+      internalID: 1348342552431080480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3199
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfea8df051695210800000000000000
+      internalID: 1322194966088970181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_11
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 3199
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e1d36cb535bfc60800000000000000
+      internalID: 7852962028883615289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_12
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 3199
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473d2b527ec49d3b0800000000000000
+      internalID: -5487270115320605836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_13
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 3199
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe46567c650550800800000000000000
+      internalID: 577956460829697263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_14
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 3199
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d755fdf3c64c6d40800000000000000
+      internalID: 5578911845998483409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2559
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2d2462f8376b880800000000000000
+      internalID: -8595555780130581849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_16
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2559
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49774c93fe5cdef0800000000000000
+      internalID: -82086292807517874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_17
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 2559
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edceb6230f40c96b0800000000000000
+      internalID: -5288346432755208994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_18
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 2559
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafc18087758c3e80800000000000000
+      internalID: -8197530473417551957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_19
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 2559
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5a803b2af523ac0800000000000000
+      internalID: -3876931176819546628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_20
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1919
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34b4fe9419ad0a80800000000000000
+      internalID: -8498951015746980804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_21
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1919
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894e8307dad64d450800000000000000
+      internalID: 6112631185928152216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_22
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1919
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ecef07b97a7f700800000000000000
+      internalID: 574111763570544150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_23
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 1919
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0464f5ab83403f470800000000000000
+      internalID: 8427083969431815744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_24
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 1919
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2933f6c5bed7de80800000000000000
+      internalID: -8153803728022718161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1279
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340969935cdfad730800000000000000
+      internalID: 4024808240525512771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_26
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1279
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedc2cccc5cd1ec00800000000000000
+      internalID: 928265289345453549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_27
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1279
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6b933a833375c00800000000000000
+      internalID: 889235769778615979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_28
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 1279
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10fca129ad00e2b0800000000000000
+      internalID: -5557426920109576162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_29
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 1279
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6051c074d0c80e0800000000000000
+      internalID: -2266421913677658393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 639
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fcd241fd3d99760800000000000000
+      internalID: 7465230812413021971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_31
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 639
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0528db72f9ce1c3a0800000000000000
+      internalID: -6646771406711455152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_32
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 639
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d913b2dfec98b1b40800000000000000
+      internalID: 5412070899319517597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_33
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 639
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc765b03ce6393c0800000000000000
+      internalID: -4354014630749242185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_34
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 639
+        width: 244
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bad6754f92c001c0800000000000000
+      internalID: -4539414435068454223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serious_frames_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 244
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c7c4dd9d17655f0800000000000000
+      internalID: -768301505885471600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
